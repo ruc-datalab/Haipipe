@@ -1,0 +1,4384 @@
+{
+    "0": {
+        "dataset": "mathan_fifa-2018-match-statistics",
+        "csv_file": "FIFA 2018 Statistics.csv",
+        "label": "20",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.6538461538461539
+    },
+    "1": {
+        "dataset": "arshid_iris-flower-dataset",
+        "csv_file": "IRIS.csv",
+        "label": "4",
+        "model": "SVC",
+        "hi_mean": 0.8
+    },
+    "2": {
+        "dataset": "ronitf_heart-disease-uci",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8456312913431118
+    },
+    "3": {
+        "dataset": "ronitf_heart-disease-uci",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "SVC",
+        "hi_mean": 0.7590921306589138
+    },
+    "4": {
+        "dataset": "blastchar_telco-customer-churn",
+        "csv_file": "WA_Fn-UseC_-Telco-Customer-Churn.csv",
+        "label": "20",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7911638758328344
+    },
+    "5": {
+        "dataset": "abcsds_pokemon",
+        "csv_file": "Pokemon.csv",
+        "label": "12",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9636994949494949
+    },
+    "6": {
+        "dataset": "arshid_iris-flower-dataset",
+        "csv_file": "IRIS.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9666666666666667
+    },
+    "7": {
+        "dataset": "adammaus_predicting-churn-for-bank-customers",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.858
+    },
+    "8": {
+        "dataset": "ronitf_heart-disease-uci",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.860496653468573
+    },
+    "9": {
+        "dataset": "merishnasuwal_breast-cancer-prediction-dataset",
+        "csv_file": "Breast_cancer_data.csv",
+        "label": "5",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9327485380116959
+    },
+    "10": {
+        "dataset": "hesh97_titanicdataset-traincsv",
+        "csv_file": "train.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7833272868731836
+    },
+    "11": {
+        "dataset": "heptapod_titanic",
+        "csv_file": "train_and_test2.csv",
+        "label": "27",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8295165394402035
+    },
+    "12": {
+        "dataset": "blastchar_telco-customer-churn",
+        "csv_file": "WA_Fn-UseC_-Telco-Customer-Churn.csv",
+        "label": "20",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7210800023253707
+    },
+    "13": {
+        "dataset": "adammaus_predicting-churn-for-bank-customers",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.798
+    },
+    "14": {
+        "dataset": "blastchar_telco-customer-churn",
+        "csv_file": "WA_Fn-UseC_-Telco-Customer-Churn.csv",
+        "label": "20",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8061328255143906
+    },
+    "15": {
+        "dataset": "ajay1735_hmeq-data",
+        "csv_file": "hmeq.csv",
+        "label": "0",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9397402985827336
+    },
+    "16": {
+        "dataset": "ronitf_heart-disease-uci",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7608765555488375
+    },
+    "17": {
+        "dataset": "ronitf_heart-disease-uci",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7718950968365488
+    },
+    "18": {
+        "dataset": "primaryobjects_voicegender",
+        "csv_file": "voice.csv",
+        "label": "20",
+        "model": "SVC",
+        "hi_mean": 0.9270358686762473
+    },
+    "19": {
+        "dataset": "ajay1735_hmeq-data",
+        "csv_file": "hmeq.csv",
+        "label": "0",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8206972213422461
+    },
+    "20": {
+        "dataset": "sulianova_cardiovascular-disease-dataset",
+        "csv_file": "cardio_train.csv",
+        "label": "12",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.6431992121963673
+    },
+    "21": {
+        "dataset": "sulianova_cardiovascular-disease-dataset",
+        "csv_file": "cardio_train.csv",
+        "label": "12",
+        "model": "LogisticRegression",
+        "hi_mean": 0.6226626440530549
+    },
+    "22": {
+        "dataset": "jsphyg_weather-dataset-rattle-package",
+        "csv_file": "weatherAUS.csv",
+        "label": "22",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7772978361091498
+    },
+    "23": {
+        "dataset": "arshid_iris-flower-dataset",
+        "csv_file": "IRIS.csv",
+        "label": "4",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.95
+    },
+    "24": {
+        "dataset": "janiobachmann_bank-marketing-dataset",
+        "csv_file": "bank.csv",
+        "label": "16",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8308023691199595
+    },
+    "25": {
+        "dataset": "joniarroba_noshowappointments",
+        "csv_file": "KaggleV2-May-2016.csv",
+        "label": "13",
+        "model": "LogisticRegression",
+        "hi_mean": 0.797113905726952
+    },
+    "26": {
+        "dataset": "mohansacharya_graduate-admissions",
+        "csv_file": "Admission_Predict_Ver1.1.csv",
+        "label": "8",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8850000000000001
+    },
+    "27": {
+        "dataset": "sulianova_cardiovascular-disease-dataset",
+        "csv_file": "cardio_train.csv",
+        "label": "12",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.631
+    },
+    "28": {
+        "dataset": "primaryobjects_voicegender",
+        "csv_file": "voice.csv",
+        "label": "20",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9515639771866011
+    },
+    "29": {
+        "dataset": "fayomi_advertising",
+        "csv_file": "advertising.csv",
+        "label": "9",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9249999999999999
+    },
+    "30": {
+        "dataset": "aljarah_xAPI-Edu-Data",
+        "csv_file": "xAPI-Edu-Data.csv",
+        "label": "16",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7430555555555555
+    },
+    "31": {
+        "dataset": "brynja_wineuci",
+        "csv_file": "Wine.csv",
+        "label": "0",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9629629629629629
+    },
+    "32": {
+        "dataset": "blastchar_telco-customer-churn",
+        "csv_file": "WA_Fn-UseC_-Telco-Customer-Churn.csv",
+        "label": "20",
+        "model": "SVC",
+        "hi_mean": 0.7643870625497544
+    },
+    "33": {
+        "dataset": "sammy123_lower-back-pain-symptoms-dataset",
+        "csv_file": "Dataset_spine.csv",
+        "label": "12",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7862903225806451
+    },
+    "34": {
+        "dataset": "kandij_diabetes-dataset",
+        "csv_file": "diabetes2.csv",
+        "label": "8",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8066069562621287
+    },
+    "35": {
+        "dataset": "shuofxz_titanic-machine-learning-from-disaster",
+        "csv_file": "train.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7877094972067039
+    },
+    "36": {
+        "dataset": "elikplim_car-evaluation-data-set",
+        "csv_file": "car_evaluation.csv",
+        "label": "6",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9277456647398844
+    },
+    "37": {
+        "dataset": "barelydedicated_bank-customer-churn-modeling",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.857171270199173
+    },
+    "38": {
+        "dataset": "ninzaami_loan-predication",
+        "csv_file": "train_u6lujuX_CVtuZ9i (1).csv",
+        "label": "12",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8048780487804879
+    },
+    "39": {
+        "dataset": "sulianova_cardiovascular-disease-dataset",
+        "csv_file": "cardio_train.csv",
+        "label": "12",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.6712857142857143
+    },
+    "40": {
+        "dataset": "pavansubhasht_ibm-hr-analytics-attrition-dataset",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8652561723990295
+    },
+    "41": {
+        "dataset": "becksddf_churn-in-telecoms-dataset",
+        "csv_file": "bigml_59c28831336c6604c800002a.csv",
+        "label": "20",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9454647676161919
+    },
+    "42": {
+        "dataset": "primaryobjects_voicegender",
+        "csv_file": "voice.csv",
+        "label": "20",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.981800533851007
+    },
+    "43": {
+        "dataset": "merishnasuwal_breast-cancer-prediction-dataset",
+        "csv_file": "Breast_cancer_data.csv",
+        "label": "5",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9135338345864662
+    },
+    "44": {
+        "dataset": "sammy123_lower-back-pain-symptoms-dataset",
+        "csv_file": "Dataset_spine.csv",
+        "label": "12",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7983870967741935
+    },
+    "45": {
+        "dataset": "wenruliu_adult-income-dataset",
+        "csv_file": "adult.csv",
+        "label": "14",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8044943627654296
+    },
+    "46": {
+        "dataset": "wenruliu_adult-income-dataset",
+        "csv_file": "adult.csv",
+        "label": "14",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8468883804798154
+    },
+    "47": {
+        "dataset": "aljarah_xAPI-Edu-Data",
+        "csv_file": "xAPI-Edu-Data.csv",
+        "label": "16",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.5520833333333334
+    },
+    "48": {
+        "dataset": "lodetomasi1995_income-classification",
+        "csv_file": "income_evaluation.csv",
+        "label": "14",
+        "model": "LogisticRegression",
+        "hi_mean": 0.792875786887763
+    },
+    "49": {
+        "dataset": "dileep070_heart-disease-prediction-using-logistic-regression",
+        "csv_file": "framingham.csv",
+        "label": "15",
+        "model": "LogisticRegression",
+        "hi_mean": 0.849316912749753
+    },
+    "50": {
+        "dataset": "johnsmith88_heart-disease-dataset",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7869918699186992
+    },
+    "51": {
+        "dataset": "jsphyg_weather-dataset-rattle-package",
+        "csv_file": "weatherAUS.csv",
+        "label": "22",
+        "model": "LogisticRegression",
+        "hi_mean": 0.857485891457197
+    },
+    "52": {
+        "dataset": "pavansubhasht_ibm-hr-analytics-attrition-dataset",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "SVC",
+        "hi_mean": 0.7874149659863946
+    },
+    "53": {
+        "dataset": "altruistdelhite04_loan-prediction-problem-dataset",
+        "csv_file": "train_u6lujuX_CVtuZ9i.csv",
+        "label": "12",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7926743796650352
+    },
+    "54": {
+        "dataset": "henriqueyamahata_bank-marketing",
+        "csv_file": "bank-additional-full.csv",
+        "label": "20",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8720811411246611
+    },
+    "55": {
+        "dataset": "pavansubhasht_ibm-hr-analytics-attrition-dataset",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8377190220954043
+    },
+    "56": {
+        "dataset": "dileep070_heart-disease-prediction-using-logistic-regression",
+        "csv_file": "framingham.csv",
+        "label": "15",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.85270318849626
+    },
+    "57": {
+        "dataset": "primaryobjects_voicegender",
+        "csv_file": "voice.csv",
+        "label": "20",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9791009463722398
+    },
+    "58": {
+        "dataset": "kabure_german-credit-data-with-risk",
+        "csv_file": "german_credit_data.csv",
+        "label": "10",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7324999999999999
+    },
+    "59": {
+        "dataset": "iabhishekofficial_mobile-price-classification",
+        "csv_file": "train.csv",
+        "label": "20",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.828125
+    },
+    "60": {
+        "dataset": "leonardopena_top50spotify2019",
+        "csv_file": "top50.csv",
+        "label": "13",
+        "model": "SVC",
+        "hi_mean": 0.2
+    },
+    "61": {
+        "dataset": "mohansacharya_graduate-admissions",
+        "csv_file": "Admission_Predict_Ver1.1.csv",
+        "label": "8",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8266666666666667
+    },
+    "62": {
+        "dataset": "wenruliu_adult-income-dataset",
+        "csv_file": "adult.csv",
+        "label": "14",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8034651584832404
+    },
+    "63": {
+        "dataset": "adammaus_predicting-churn-for-bank-customers",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.793
+    },
+    "64": {
+        "dataset": "pavansubhasht_ibm-hr-analytics-attrition-dataset",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.764625850340136
+    },
+    "65": {
+        "dataset": "altruistdelhite04_loan-prediction-problem-dataset",
+        "csv_file": "train_u6lujuX_CVtuZ9i.csv",
+        "label": "12",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.6856368563685636
+    },
+    "66": {
+        "dataset": "heptapod_titanic",
+        "csv_file": "train_and_test2.csv",
+        "label": "27",
+        "model": "SVC",
+        "hi_mean": 0.7862595419847328
+    },
+    "67": {
+        "dataset": "loveall_cervical-cancer-risk-classification",
+        "csv_file": "kag_risk_factors_cervical_cancer.csv",
+        "label": "35",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.8488372093023255
+    },
+    "68": {
+        "dataset": "flenderson_sales-analysis",
+        "csv_file": "SalesKaggle3.csv",
+        "label": "3",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8110526315789474
+    },
+    "69": {
+        "dataset": "greedy93_titanic-survival-data",
+        "csv_file": "titanic_data.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7762237762237763
+    },
+    "70": {
+        "dataset": "rakeshrau_social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7875
+    },
+    "71": {
+        "dataset": "merishnasuwal_breast-cancer-prediction-dataset",
+        "csv_file": "Breast_cancer_data.csv",
+        "label": "5",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8976608187134504
+    },
+    "72": {
+        "dataset": "chirin_africa-economic-banking-and-systemic-crisis-data",
+        "csv_file": "african_crises.csv",
+        "label": "13",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9669811320754718
+    },
+    "73": {
+        "dataset": "henriqueyamahata_bank-marketing",
+        "csv_file": "bank-additional-full.csv",
+        "label": "20",
+        "model": "SVC",
+        "hi_mean": 0.8929958727846565
+    },
+    "74": {
+        "dataset": "sayroy1997_apndcts",
+        "csv_file": "apndcts.csv",
+        "label": "7",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9090909090909091
+    },
+    "75": {
+        "dataset": "elikplim_car-evaluation-data-set",
+        "csv_file": "car_evaluation.csv",
+        "label": "6",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9958677685950413
+    },
+    "76": {
+        "dataset": "eswarchandt_phishing-website-detector",
+        "csv_file": "phishing.csv",
+        "label": "31",
+        "model": "SVC",
+        "hi_mean": 0.8525554047942108
+    },
+    "77": {
+        "dataset": "rakeshrau_social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.922222222222222
+    },
+    "78": {
+        "dataset": "kabure_german-credit-data-with-risk",
+        "csv_file": "german_credit_data.csv",
+        "label": "10",
+        "model": "SVC",
+        "hi_mean": 0.715
+    },
+    "79": {
+        "dataset": "iabhishekofficial_mobile-price-classification",
+        "csv_file": "train.csv",
+        "label": "20",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.92453125
+    },
+    "80": {
+        "dataset": "gauravduttakiit_heart-disease-prediction",
+        "csv_file": "heart_v2.csv",
+        "label": "4",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.6111111111111112
+    },
+    "81": {
+        "dataset": "chirin_africa-economic-banking-and-systemic-crisis-data",
+        "csv_file": "african_crises.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9839622641509432
+    },
+    "82": {
+        "dataset": "aljarah_xAPI-Edu-Data",
+        "csv_file": "xAPI-Edu-Data.csv",
+        "label": "16",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7291666666666666
+    },
+    "83": {
+        "dataset": "johndasilva_diabetes",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "SVC",
+        "hi_mean": 0.7812776723592663
+    },
+    "84": {
+        "dataset": "jsphyg_weather-dataset-rattle-package",
+        "csv_file": "weatherAUS.csv",
+        "label": "22",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8548387096774194
+    },
+    "85": {
+        "dataset": "gabisato_league-of-legends-challengerss-ranked-games",
+        "csv_file": "dataset.csv",
+        "label": "4",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.93
+    },
+    "86": {
+        "dataset": "gilsousa_habermans-survival-data-set",
+        "csv_file": "haberman.csv",
+        "label": "3",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.5737704918032787
+    },
+    "87": {
+        "dataset": "johndasilva_diabetes",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "LogisticRegression",
+        "hi_mean": 0.78375
+    },
+    "88": {
+        "dataset": "becksddf_churn-in-telecoms-dataset",
+        "csv_file": "bigml_59c28831336c6604c800002a.csv",
+        "label": "20",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9035482258870564
+    },
+    "89": {
+        "dataset": "gangliu_telecustsclasses",
+        "csv_file": "teleCust1000t.csv",
+        "label": "11",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.32
+    },
+    "90": {
+        "dataset": "geomack_spotifyclassification",
+        "csv_file": "data.csv",
+        "label": "14",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.6806930693069307
+    },
+    "91": {
+        "dataset": "eswarchandt_phishing-website-detector",
+        "csv_file": "phishing.csv",
+        "label": "31",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.6128448665762098
+    },
+    "92": {
+        "dataset": "ritesaluja_bank-note-authentication-uci-data",
+        "csv_file": "BankNote_Authentication.csv",
+        "label": "4",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9890909090909091
+    },
+    "93": {
+        "dataset": "mohansacharya_graduate-admissions",
+        "csv_file": "Admission_Predict_Ver1.1.csv",
+        "label": "8",
+        "model": "SVC",
+        "hi_mean": 0.94
+    },
+    "94": {
+        "dataset": "altruistdelhite04_loan-prediction-problem-dataset",
+        "csv_file": "train_u6lujuX_CVtuZ9i.csv",
+        "label": "12",
+        "model": "SVC",
+        "hi_mean": 0.6829268292682926
+    },
+    "95": {
+        "dataset": "chetnasureka_absenteeismatwork",
+        "csv_file": "Absenteeism_at_work.csv",
+        "label": "14",
+        "model": "SVC",
+        "hi_mean": 0.5571428571428572
+    },
+    "96": {
+        "dataset": "kabure_german-credit-data-with-risk",
+        "csv_file": "german_credit_data.csv",
+        "label": "10",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.67
+    },
+    "97": {
+        "dataset": "johndasilva_diabetes",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.80375
+    },
+    "98": {
+        "dataset": "heptapod_titanic",
+        "csv_file": "train_and_test2.csv",
+        "label": "27",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7786259541984732
+    },
+    "99": {
+        "dataset": "aljarah_xAPI-Edu-Data",
+        "csv_file": "xAPI-Edu-Data.csv",
+        "label": "16",
+        "model": "SVC",
+        "hi_mean": 0.6215277777777778
+    },
+    "100": {
+        "dataset": "merishnasuwal_breast-cancer-prediction-dataset",
+        "csv_file": "Breast_cancer_data.csv",
+        "label": "5",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.8771929824561403
+    },
+    "101": {
+        "dataset": "akram24_social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "SVC",
+        "hi_mean": 0.9499999999999998
+    },
+    "102": {
+        "dataset": "kandij_diabetes-dataset",
+        "csv_file": "diabetes2.csv",
+        "label": "8",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7532467532467533
+    },
+    "103": {
+        "dataset": "rtatman_did-it-rain-in-seattle-19482017",
+        "csv_file": "seattleWeather_1948-2017.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9590998043052837
+    },
+    "104": {
+        "dataset": "geomack_spotifyclassification",
+        "csv_file": "data.csv",
+        "label": "14",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7574257425742574
+    },
+    "105": {
+        "dataset": "dileep070_heart-disease-prediction-using-logistic-regression",
+        "csv_file": "framingham.csv",
+        "label": "15",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.75
+    },
+    "106": {
+        "dataset": "imnikhilanand_heart-attack-prediction",
+        "csv_file": "data.csv",
+        "label": "13",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8813559322033898
+    },
+    "107": {
+        "dataset": "shrutimechlearn_churn-modelling",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8583999999999999
+    },
+    "108": {
+        "dataset": "faressayah_college-data",
+        "csv_file": "data.csv",
+        "label": "0",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9230769230769231
+    },
+    "109": {
+        "dataset": "imnikhilanand_heart-attack-prediction",
+        "csv_file": "data.csv",
+        "label": "13",
+        "model": "LogisticRegression",
+        "hi_mean": 0.864406779661017
+    },
+    "110": {
+        "dataset": "ealaxi_paysim1",
+        "csv_file": "PS_20174392719_1491204439457_log.csv",
+        "label": "10",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9999992141602044
+    },
+    "111": {
+        "dataset": "kandij_diabetes-dataset",
+        "csv_file": "diabetes2.csv",
+        "label": "8",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7857142857142857
+    },
+    "112": {
+        "dataset": "mohansacharya_graduate-admissions",
+        "csv_file": "Admission_Predict_Ver1.1.csv",
+        "label": "8",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8973873873873873
+    },
+    "113": {
+        "dataset": "dileep070_heart-disease-prediction-using-logistic-regression",
+        "csv_file": "framingham.csv",
+        "label": "15",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8301886792452831
+    },
+    "114": {
+        "dataset": "altruistdelhite04_loan-prediction-problem-dataset",
+        "csv_file": "train_u6lujuX_CVtuZ9i.csv",
+        "label": "12",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8245440562513733
+    },
+    "115": {
+        "dataset": "hafizwaqas101_creditcarddefault",
+        "csv_file": "credit-card-default.csv",
+        "label": "24",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8266666666666667
+    },
+    "116": {
+        "dataset": "dragonheir_logistic-regression",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.825
+    },
+    "117": {
+        "dataset": "iabhishekofficial_mobile-price-classification",
+        "csv_file": "train.csv",
+        "label": "20",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8730555555555556
+    },
+    "118": {
+        "dataset": "chirin_africa-economic-banking-and-systemic-crisis-data",
+        "csv_file": "african_crises.csv",
+        "label": "13",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9481132075471698
+    },
+    "119": {
+        "dataset": "iabhishekofficial_mobile-price-classification",
+        "csv_file": "train.csv",
+        "label": "20",
+        "model": "SVC",
+        "hi_mean": 0.93
+    },
+    "120": {
+        "dataset": "chetnasureka_absenteeismatwork",
+        "csv_file": "Absenteeism_at_work.csv",
+        "label": "14",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.45945945945945943
+    },
+    "121": {
+        "dataset": "shrutimechlearn_churn-modelling",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8365
+    },
+    "122": {
+        "dataset": "loveall_cervical-cancer-risk-classification",
+        "csv_file": "kag_risk_factors_cervical_cancer.csv",
+        "label": "35",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9407246265208686
+    },
+    "123": {
+        "dataset": "johndasilva_diabetes",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.993125
+    },
+    "124": {
+        "dataset": "becksddf_churn-in-telecoms-dataset",
+        "csv_file": "bigml_59c28831336c6604c800002a.csv",
+        "label": "20",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.896551724137931
+    },
+    "125": {
+        "dataset": "rtatman_did-it-rain-in-seattle-19482017",
+        "csv_file": "seattleWeather_1948-2017.csv",
+        "label": "4",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7708863236157307
+    },
+    "126": {
+        "dataset": "hesh97_titanicdataset-traincsv",
+        "csv_file": "train.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8547486033519553
+    },
+    "127": {
+        "dataset": "rakeshrau_social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "SVC",
+        "hi_mean": 0.9479166666666666
+    },
+    "128": {
+        "dataset": "johndasilva_diabetes",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9862500000000001
+    },
+    "129": {
+        "dataset": "rakeshrau_social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9041666666666668
+    },
+    "130": {
+        "dataset": "abcsds_pokemon",
+        "csv_file": "Pokemon.csv",
+        "label": "12",
+        "model": "SVC",
+        "hi_mean": 0.93125
+    },
+    "131": {
+        "dataset": "janiobachmann_bank-marketing-dataset",
+        "csv_file": "bank.csv",
+        "label": "16",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7187347997229647
+    },
+    "132": {
+        "dataset": "primaryobjects_voicegender",
+        "csv_file": "voice.csv",
+        "label": "20",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9522870662460567
+    },
+    "133": {
+        "dataset": "hesh97_titanicdataset-traincsv",
+        "csv_file": "train.csv",
+        "label": "1",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.8044692737430168
+    },
+    "134": {
+        "dataset": "pavansubhasht_ibm-hr-analytics-attrition-dataset",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8316326530612245
+    },
+    "135": {
+        "dataset": "akram24_social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9
+    },
+    "136": {
+        "dataset": "blastchar_telco-customer-churn",
+        "csv_file": "WA_Fn-UseC_-Telco-Customer-Churn.csv",
+        "label": "20",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7525887620601243
+    },
+    "137": {
+        "dataset": "chetnasureka_absenteeismatwork",
+        "csv_file": "Absenteeism_at_work.csv",
+        "label": "14",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.40202702702702703
+    },
+    "138": {
+        "dataset": "akram24_social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8416666666666667
+    },
+    "139": {
+        "dataset": "heptapod_titanic",
+        "csv_file": "train_and_test2.csv",
+        "label": "27",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7251908396946565
+    },
+    "140": {
+        "dataset": "dragonheir_logistic-regression",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8533088235294118
+    },
+    "141": {
+        "dataset": "chirin_africa-economic-banking-and-systemic-crisis-data",
+        "csv_file": "african_crises.csv",
+        "label": "13",
+        "model": "SVC",
+        "hi_mean": 0.8867924528301887
+    },
+    "142": {
+        "dataset": "johnsmith88_heart-disease-dataset",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "SVC",
+        "hi_mean": 0.7463414634146341
+    },
+    "143": {
+        "dataset": "rakeshrau_social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.925
+    },
+    "144": {
+        "dataset": "shrutimechlearn_churn-modelling",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "SVC",
+        "hi_mean": 0.8584999999999999
+    },
+    "145": {
+        "dataset": "akram24_social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9458333333333333
+    },
+    "146": {
+        "dataset": "fayomi_advertising",
+        "csv_file": "advertising.csv",
+        "label": "9",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.94
+    },
+    "147": {
+        "dataset": "ritesaluja_bank-note-authentication-uci-data",
+        "csv_file": "BankNote_Authentication.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9927272727272727
+    },
+    "148": {
+        "dataset": "joniarroba_noshowappointments",
+        "csv_file": "KaggleV2-May-2016.csv",
+        "label": "13",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7725504387948973
+    },
+    "149": {
+        "dataset": "merishnasuwal_breast-cancer-prediction-dataset",
+        "csv_file": "Breast_cancer_data.csv",
+        "label": "5",
+        "model": "SVC",
+        "hi_mean": 0.6622807017543859
+    },
+    "150": {
+        "dataset": "sammy123_lower-back-pain-symptoms-dataset",
+        "csv_file": "Dataset_spine.csv",
+        "label": "12",
+        "model": "SVC",
+        "hi_mean": 0.7741935483870968
+    },
+    "151": {
+        "dataset": "kabure_german-credit-data-with-risk",
+        "csv_file": "german_credit_data.csv",
+        "label": "10",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7
+    },
+    "152": {
+        "dataset": "johnsmith88_heart-disease-dataset",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8341463414634146
+    },
+    "153": {
+        "dataset": "mohansacharya_graduate-admissions",
+        "csv_file": "Admission_Predict_Ver1.1.csv",
+        "label": "8",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.885
+    },
+    "154": {
+        "dataset": "joniarroba_noshowappointments",
+        "csv_file": "KaggleV2-May-2016.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.764181670134805
+    },
+    "155": {
+        "dataset": "sammy123_lower-back-pain-symptoms-dataset",
+        "csv_file": "Dataset_spine.csv",
+        "label": "12",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7526881720430106
+    },
+    "156": {
+        "dataset": "henriqueyamahata_bank-marketing",
+        "csv_file": "bank-additional-full.csv",
+        "label": "20",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.900279193979121
+    },
+    "157": {
+        "dataset": "balaka18_email-spam-classification-dataset-csv",
+        "csv_file": "emails.csv",
+        "label": "3001",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9642512077294686
+    },
+    "158": {
+        "dataset": "akashkr_phishing-website-dataset",
+        "csv_file": "dataset.csv",
+        "label": "31",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.6196291270918136
+    },
+    "159": {
+        "dataset": "alhassanabdelglil_classification",
+        "csv_file": "Dataset_for_Classification.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8503401360544217
+    },
+    "160": {
+        "dataset": "aungpyaeap_tictactoe-endgame-dataset-uci",
+        "csv_file": "tic-tac-toe-endgame.csv",
+        "label": "9",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9166666666666666
+    },
+    "161": {
+        "dataset": "lodetomasi1995_income-classification",
+        "csv_file": "income_evaluation.csv",
+        "label": "14",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8510670965760786
+    },
+    "162": {
+        "dataset": "aman9d_phishing-data",
+        "csv_file": "combined_dataset.csv",
+        "label": "11",
+        "model": "SVC",
+        "hi_mean": 0.7663434469815452
+    },
+    "163": {
+        "dataset": "fayomi_advertising",
+        "csv_file": "advertising.csv",
+        "label": "9",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9624999999999999
+    },
+    "164": {
+        "dataset": "aariyan101_kyphosis",
+        "csv_file": "kyphosis.csv",
+        "label": "0",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7058823529411765
+    },
+    "165": {
+        "dataset": "akashkr_phishing-website-dataset",
+        "csv_file": "dataset.csv",
+        "label": "31",
+        "model": "SVC",
+        "hi_mean": 0.5413839891451832
+    },
+    "166": {
+        "dataset": "sayroy1997_apndcts",
+        "csv_file": "apndcts.csv",
+        "label": "7",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7272727272727273
+    },
+    "167": {
+        "dataset": "burak3ergun_loan-data-set",
+        "csv_file": "loan_data_set.csv",
+        "label": "12",
+        "model": "SVC",
+        "hi_mean": 0.7253677937831914
+    },
+    "168": {
+        "dataset": "barelydedicated_bank-customer-churn-modeling",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "LogisticRegression",
+        "hi_mean": 0.81375
+    },
+    "169": {
+        "dataset": "ninzaami_loan-predication",
+        "csv_file": "train_u6lujuX_CVtuZ9i (1).csv",
+        "label": "12",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8181529471544715
+    },
+    "170": {
+        "dataset": "aariyan101_kyphosis",
+        "csv_file": "kyphosis.csv",
+        "label": "0",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7058823529411765
+    },
+    "171": {
+        "dataset": "chetnasureka_absenteeismatwork",
+        "csv_file": "Absenteeism_at_work.csv",
+        "label": "14",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.5137065637065636
+    },
+    "172": {
+        "dataset": "adisak_divorce-predictors-data-set-csv",
+        "csv_file": "divorce-csv.csv",
+        "label": "54",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9117647058823529
+    },
+    "173": {
+        "dataset": "aman9d_phishing-data",
+        "csv_file": "combined_dataset.csv",
+        "label": "11",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9582421019705974
+    },
+    "174": {
+        "dataset": "affablekarthik_titanic-survival-prediction",
+        "csv_file": "titanic_data.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7932960893854749
+    },
+    "175": {
+        "dataset": "aashnaprasad_heart-disease-detection-dataset",
+        "csv_file": "datasets_33180_43520_heart.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7868852459016393
+    },
+    "176": {
+        "dataset": "abilashcheruvathur_bank-personal-loan-eligibility",
+        "csv_file": "Bank_Personal_Loan_Modelling.csv",
+        "label": "9",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.98
+    },
+    "177": {
+        "dataset": "akram24_social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.925
+    },
+    "178": {
+        "dataset": "abbasit_titanic",
+        "csv_file": "titanic_train.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7932960893854749
+    },
+    "179": {
+        "dataset": "abhinavralhan_titanic",
+        "csv_file": "train.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8111888111888111
+    },
+    "180": {
+        "dataset": "abhinavralhan_titanic",
+        "csv_file": "train.csv",
+        "label": "1",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7932960893854749
+    },
+    "181": {
+        "dataset": "imnikhilanand_heart-attack-prediction",
+        "csv_file": "data.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.847457627118644
+    },
+    "182": {
+        "dataset": "displaynamenow_column-2c-wekacsv",
+        "csv_file": "column_2C_weka.csv",
+        "label": "6",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7741935483870968
+    },
+    "183": {
+        "dataset": "barkhaverma_placement-data-full-class",
+        "csv_file": "Placement_data_full_class.csv",
+        "label": "14",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7441860465116279
+    },
+    "184": {
+        "dataset": "amitkumardas_student-job",
+        "csv_file": "student_job.csv",
+        "label": "4",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.75
+    },
+    "185": {
+        "dataset": "flenderson_sales-analysis",
+        "csv_file": "SalesKaggle3.csv",
+        "label": "3",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8291447368421052
+    },
+    "186": {
+        "dataset": "dileep070_anomaly-detection",
+        "csv_file": "creditcard.csv",
+        "label": "30",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9995084442259752
+    },
+    "187": {
+        "dataset": "deepu1109_star-dataset",
+        "csv_file": "6 class csv.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9791666666666666
+    },
+    "188": {
+        "dataset": "faressayah_audiobook-app-data",
+        "csv_file": "audiobook_data_2.csv",
+        "label": "11",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8924387646432375
+    },
+    "189": {
+        "dataset": "anmolsingh1210_hand-posture",
+        "csv_file": "Postures.csv",
+        "label": "0",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9894999679877072
+    },
+    "190": {
+        "dataset": "braindeadcoder_advertising",
+        "csv_file": "advertising.csv",
+        "label": "9",
+        "model": "LogisticRegression",
+        "hi_mean": 0.915
+    },
+    "191": {
+        "dataset": "avhikj_churn-predictions-personal",
+        "csv_file": "Churn_Predictions.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8302298417933276
+    },
+    "192": {
+        "dataset": "andrewmvd_udemy-courses",
+        "csv_file": "udemy_courses.csv",
+        "label": "3",
+        "model": "SVC",
+        "hi_mean": 0.9103260869565217
+    },
+    "193": {
+        "dataset": "diegobabativa_depression",
+        "csv_file": "b_depressed.csv",
+        "label": "22",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8439716312056738
+    },
+    "194": {
+        "dataset": "akshayksingh_kidney-disease-dataset",
+        "csv_file": "kidney_disease.csv",
+        "label": "25",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.85
+    },
+    "195": {
+        "dataset": "braindeadcoder_lending-club-data",
+        "csv_file": "loan_data.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8397703549060542
+    },
+    "196": {
+        "dataset": "gopalchettri_advertisement",
+        "csv_file": "advertising.csv",
+        "label": "9",
+        "model": "LogisticRegression",
+        "hi_mean": 0.92
+    },
+    "197": {
+        "dataset": "ankitbarai507_breast-cancer-dataset",
+        "csv_file": "dataR2.csv",
+        "label": "9",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.625
+    },
+    "198": {
+        "dataset": "gilsousa_habermans-survival-data-set",
+        "csv_file": "haberman.csv",
+        "label": "3",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.6370967741935484
+    },
+    "199": {
+        "dataset": "dsabhis04_bank-note-data-set",
+        "csv_file": "bank_notes.csv",
+        "label": "4",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9890909090909091
+    },
+    "200": {
+        "dataset": "akshat0007_fetalhr",
+        "csv_file": "CTG.csv",
+        "label": "39",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.852112676056338
+    },
+    "201": {
+        "dataset": "baguskurniawanadhi_iklancsv",
+        "csv_file": "Iklan_sosmed.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9125
+    },
+    "202": {
+        "dataset": "bbyclub_hearth-disease",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8524590163934426
+    },
+    "203": {
+        "dataset": "atulanandjha_temperature-readings-iot-devices",
+        "csv_file": "IOT-temp.csv",
+        "label": "4",
+        "model": "SVC",
+        "hi_mean": 0.8051429156848684
+    },
+    "204": {
+        "dataset": "bluepanda98_users-of-a-social-network-who-bought-an-suv",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9041666666666667
+    },
+    "205": {
+        "dataset": "brandao_diabetes",
+        "csv_file": "diabetic_data.csv",
+        "label": "49",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8270445183350009
+    },
+    "206": {
+        "dataset": "cherngs_heart-disease-cleveland-uci",
+        "csv_file": "heart_cleveland_upload.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7833333333333333
+    },
+    "207": {
+        "dataset": "barun2104_telecom-churn",
+        "csv_file": "telecom_churn.csv",
+        "label": "0",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8814432989690721
+    },
+    "208": {
+        "dataset": "econdata_predicting-earnings-from-census-data",
+        "csv_file": "census.csv",
+        "label": "12",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.850375234521576
+    },
+    "209": {
+        "dataset": "denisadutca_customer-behaviour",
+        "csv_file": "Customer_Behaviour.csv",
+        "label": "4",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9375
+    },
+    "210": {
+        "dataset": "ashwinlagji_absenteeism-at-work",
+        "csv_file": "Absenteeism_at_work.csv",
+        "label": "20",
+        "model": "SVC",
+        "hi_mean": 0.3918918918918919
+    },
+    "211": {
+        "dataset": "dipam7_student-grade-prediction",
+        "csv_file": "student-mat.csv",
+        "label": "32",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.5822784810126582
+    },
+    "212": {
+        "dataset": "chiranjeevbit_bank-details",
+        "csv_file": "bank.csv",
+        "label": "20",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9135712551590192
+    },
+    "213": {
+        "dataset": "buntyshah_auto-insurance-claims-data",
+        "csv_file": "insurance_claims.csv",
+        "label": "39",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8457943925233645
+    },
+    "214": {
+        "dataset": "fareesamasroor_heartdd",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8524590163934426
+    },
+    "215": {
+        "dataset": "alihussain1993_lower-back-pain-symptoms-datasetlabelled",
+        "csv_file": "Dataset_spine.csv",
+        "label": "12",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7903225806451613
+    },
+    "216": {
+        "dataset": "birdy654_eeg-brainwave-dataset-feeling-emotions",
+        "csv_file": "emotions.csv",
+        "label": "2548",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9929742388758782
+    },
+    "217": {
+        "dataset": "deepu1109_star-dataset",
+        "csv_file": "6 class csv.csv",
+        "label": "4",
+        "model": "SVC",
+        "hi_mean": 0.3333333333333333
+    },
+    "218": {
+        "dataset": "ashutosh94_titanic-dataset",
+        "csv_file": "titanictrain.csv",
+        "label": "1",
+        "model": "SVC",
+        "hi_mean": 0.6424581005586593
+    },
+    "219": {
+        "dataset": "dipam7_student-grade-prediction",
+        "csv_file": "student-mat.csv",
+        "label": "32",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9873417721518988
+    },
+    "220": {
+        "dataset": "burak3ergun_loan-data-set",
+        "csv_file": "loan_data_set.csv",
+        "label": "12",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7144604941195043
+    },
+    "221": {
+        "dataset": "filippoo_deep-learning-az-ann",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8288011090186232
+    },
+    "222": {
+        "dataset": "apek1999_predict-mpv-of-polymer",
+        "csv_file": "algo.csv",
+        "label": "8",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.5243664717348928
+    },
+    "223": {
+        "dataset": "danimal_heartdiseaseensembleclassifier",
+        "csv_file": "Heart_Disease_Data.csv",
+        "label": "13",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8166666666666667
+    },
+    "224": {
+        "dataset": "flyingwombat_us-news-and-world-reports-college-data",
+        "csv_file": "College.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9294871794871795
+    },
+    "225": {
+        "dataset": "dipam7_student-grade-prediction",
+        "csv_file": "student-mat.csv",
+        "label": "21",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8481012658227848
+    },
+    "226": {
+        "dataset": "ankitshandilya_silhouette-of-vehicles-dataset",
+        "csv_file": "vehicle.csv",
+        "label": "18",
+        "model": "SVC",
+        "hi_mean": 0.9764705882352941
+    },
+    "227": {
+        "dataset": "goneee_dwdm-week-3",
+        "csv_file": "Creditcardprom.csv",
+        "label": "3",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.6666666666666666
+    },
+    "228": {
+        "dataset": "amanwadhwa_wine-quality-from-chemical-properties",
+        "csv_file": "winequality.csv",
+        "label": "11",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7368421052631579
+    },
+    "229": {
+        "dataset": "anshumansahu12_prediction-of-purchased-car",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8974358974358975
+    },
+    "230": {
+        "dataset": "btphan_online-news-popularity-dataset",
+        "csv_file": "OnlineNewsPopularityReduced.csv",
+        "label": "60",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.020181634712411706
+    },
+    "231": {
+        "dataset": "danerbland_electionfinance",
+        "csv_file": "CandidateSummaryAction1.csv",
+        "label": "49",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8653295128939829
+    },
+    "232": {
+        "dataset": "cities_titanic123",
+        "csv_file": "ChanDarren_RaiTaran_Lab2a.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8181818181818182
+    },
+    "233": {
+        "dataset": "annatshngryan_heart-csv",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8360655737704918
+    },
+    "234": {
+        "dataset": "dineshsagar66_hr-analytics-people-management",
+        "csv_file": "hr_analytics.csv",
+        "label": "6",
+        "model": "SVC",
+        "hi_mean": 0.7853333333333333
+    },
+    "235": {
+        "dataset": "colara_human-resource",
+        "csv_file": "HR_comma_sep.csv",
+        "label": "6",
+        "model": "SVC",
+        "hi_mean": 0.785
+    },
+    "236": {
+        "dataset": "colara_human-resource",
+        "csv_file": "HR_comma_sep.csv",
+        "label": "6",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9913333333333333
+    },
+    "237": {
+        "dataset": "dark06thunder_credit-card-dataset",
+        "csv_file": "credit_dataset.csv",
+        "label": "19",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.62
+    },
+    "238": {
+        "dataset": "agirlcoding_all-space-missions-from-1957",
+        "csv_file": "Space_Corrected.csv",
+        "label": "8",
+        "model": "SVC",
+        "hi_mean": 0.9121387283236995
+    },
+    "239": {
+        "dataset": "ashsid06_absentee",
+        "csv_file": "Absenteeism_at_work.csv",
+        "label": "14",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7297297297297297
+    },
+    "240": {
+        "dataset": "doaaalsenani_usa-cers-dataset",
+        "csv_file": "USA_cars_datasets.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.966
+    },
+    "241": {
+        "dataset": "anuragmishra2311_restaurant-reviews",
+        "csv_file": "Restaurant_Reviews.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.78
+    },
+    "242": {
+        "dataset": "gopalchettri_advertisement",
+        "csv_file": "advertising.csv",
+        "label": "9",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.945
+    },
+    "243": {
+        "dataset": "galibce003_cardiotocographic",
+        "csv_file": "Cardiotocographic.csv",
+        "label": "21",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9366197183098591
+    },
+    "244": {
+        "dataset": "deyritwik_bank-loan",
+        "csv_file": "Bank_Personal_Loan_Modelling.csv",
+        "label": "9",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.917
+    },
+    "245": {
+        "dataset": "dansbecker_melbourne-housing-snapshot",
+        "csv_file": "melb_data.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7793696275071633
+    },
+    "246": {
+        "dataset": "dipayanbiswas_parkinsons-disease-speech-signal-features",
+        "csv_file": "pd_speech_features.csv",
+        "label": "754",
+        "model": "SVC",
+        "hi_mean": 0.75
+    },
+    "247": {
+        "dataset": "doaaalsenani_usa-cers-dataset",
+        "csv_file": "USA_cars_datasets.csv",
+        "label": "12",
+        "model": "LogisticRegression",
+        "hi_mean": 0.324
+    },
+    "248": {
+        "dataset": "cherngs_heart-disease-cleveland-uci",
+        "csv_file": "heart_cleveland_upload.csv",
+        "label": "13",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8333333333333334
+    },
+    "249": {
+        "dataset": "antoine62_hired",
+        "csv_file": "data_v1.0.csv",
+        "label": "12",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9166666666666666
+    },
+    "250": {
+        "dataset": "ashishs0ni_iris-dataset",
+        "csv_file": "Iris.csv",
+        "label": "5",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9666666666666667
+    },
+    "251": {
+        "dataset": "displaynamenow_column-2c-wekacsv",
+        "csv_file": "column_2C_weka.csv",
+        "label": "6",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7741935483870968
+    },
+    "252": {
+        "dataset": "ashishs0ni_iris-dataset",
+        "csv_file": "Iris.csv",
+        "label": "5",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9333333333333333
+    },
+    "253": {
+        "dataset": "anshumansahu12_prediction-of-purchased-car",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9375
+    },
+    "254": {
+        "dataset": "chengjhj_patient-survey-score-with-demographics",
+        "csv_file": "pxdata.csv",
+        "label": "19",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7052631578947368
+    },
+    "255": {
+        "dataset": "agirusampath_adult-dataset",
+        "csv_file": "adult.csv",
+        "label": "14",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.854580856732937
+    },
+    "256": {
+        "dataset": "chandanabhatt_credit-card",
+        "csv_file": "cc_approvals.csv",
+        "label": "15",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8188405797101449
+    },
+    "257": {
+        "dataset": "dpr1988_telecom-churn-dataset",
+        "csv_file": "WA_Fn-UseC_-Telco-Customer-Churn.csv",
+        "label": "20",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7707594038325053
+    },
+    "258": {
+        "dataset": "alamjane61_titanic-train",
+        "csv_file": "train.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7932960893854749
+    },
+    "259": {
+        "dataset": "anidimma_winedataset",
+        "csv_file": "02_WineDataset.csv",
+        "label": "11",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9261538461538461
+    },
+    "260": {
+        "dataset": "deepu1109_star-dataset",
+        "csv_file": "6 class csv.csv",
+        "label": "5",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7916666666666666
+    },
+    "261": {
+        "dataset": "liujiaqi_hr-comma-sepcsv",
+        "csv_file": "HR_comma_sep.csv",
+        "label": "6",
+        "model": "LogisticRegression",
+        "hi_mean": 0.787
+    },
+    "262": {
+        "dataset": "hb20007_gender-classification",
+        "csv_file": "Transformed Data Set - Sheet1.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.75
+    },
+    "263": {
+        "dataset": "patelprashant_employee-attrition",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8718820861678004
+    },
+    "264": {
+        "dataset": "johnyquest_wisconsin-breast-cancer-cytology-features",
+        "csv_file": "wisconsin_breast_cancer.csv",
+        "label": "10",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9785714285714285
+    },
+    "265": {
+        "dataset": "navins7_telecommunications",
+        "csv_file": "teleCust1000t.csv",
+        "label": "11",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.32
+    },
+    "266": {
+        "dataset": "nishanthnarayanan_loan-data-set",
+        "csv_file": "loan_data_set.csv",
+        "label": "12",
+        "model": "SVC",
+        "hi_mean": 0.6407766990291263
+    },
+    "267": {
+        "dataset": "prkukunoor_TitanicDataset",
+        "csv_file": "titanic_data.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8128491620111732
+    },
+    "268": {
+        "dataset": "nishan192_letterrecognition-using-svm",
+        "csv_file": "letter-recognition.csv",
+        "label": "0",
+        "model": "SVC",
+        "hi_mean": 0.94925
+    },
+    "269": {
+        "dataset": "paresh2047_uci-semcom",
+        "csv_file": "uci-secom.csv",
+        "label": "591",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9585987261146497
+    },
+    "270": {
+        "dataset": "noordeen_bikeshare-data",
+        "csv_file": "bike_share.csv",
+        "label": "10",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.015151515151515152
+    },
+    "271": {
+        "dataset": "johnyquest_wisconsin-breast-cancer-cytology",
+        "csv_file": "BreastCancer2.csv",
+        "label": "10",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9562043795620438
+    },
+    "272": {
+        "dataset": "najibmh_us-airline-passenger-satisfaction-survey",
+        "csv_file": "satisfaction_v2.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7350246381275023
+    },
+    "273": {
+        "dataset": "nagasaimannepalli_adult-income",
+        "csv_file": "income.csv",
+        "label": "14",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8367879625364655
+    },
+    "274": {
+        "dataset": "marcelotc_german-credit-risk",
+        "csv_file": "german_credit.csv",
+        "label": "0",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.725
+    },
+    "275": {
+        "dataset": "himselfthedecker_aam-avaliacao-dataset",
+        "csv_file": "avaliacao.csv",
+        "label": "14",
+        "model": "SVC",
+        "hi_mean": 0.6233463035019455
+    },
+    "276": {
+        "dataset": "johnyquest_wisconsin-breast-cancer-cytology",
+        "csv_file": "BreastCancer2.csv",
+        "label": "10",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9708029197080292
+    },
+    "277": {
+        "dataset": "naveengowda16_logistic-regression-heart-disease-prediction",
+        "csv_file": "framingham_heart_disease.csv",
+        "label": "15",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8476160918300164
+    },
+    "278": {
+        "dataset": "patelprashant_employee-attrition",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8435374149659864
+    },
+    "279": {
+        "dataset": "lokkagle_diabetes-classification-problem",
+        "csv_file": "kaggle_diabetes.csv",
+        "label": "8",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.995
+    },
+    "280": {
+        "dataset": "lianglirong_pima-indians-onset-of-diabetes",
+        "csv_file": "pima_data.csv",
+        "label": "8",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8030303030303031
+    },
+    "281": {
+        "dataset": "mohammadnazeer_bankmarketing",
+        "csv_file": "bank-marketing.csv",
+        "label": "18",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.901249585314608
+    },
+    "282": {
+        "dataset": "kumargh_pimaindiansdiabetescsv",
+        "csv_file": "pima-indians-diabetes.csv",
+        "label": "8",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7564935064935066
+    },
+    "283": {
+        "dataset": "hb20007_gender-classification",
+        "csv_file": "Transformed Data Set - Sheet1.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.5
+    },
+    "284": {
+        "dataset": "krleee_churn",
+        "csv_file": "churn.csv",
+        "label": "19",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.902
+    },
+    "285": {
+        "dataset": "krantiswalke_bank-personal-loan-modelling",
+        "csv_file": "Bank_Personal_Loan_Modelling.csv",
+        "label": "9",
+        "model": "SVC",
+        "hi_mean": 0.912
+    },
+    "286": {
+        "dataset": "prkukunoor_TitanicDataset",
+        "csv_file": "titanic_data.csv",
+        "label": "1",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7430167597765364
+    },
+    "287": {
+        "dataset": "iamaniket_suv-data",
+        "csv_file": "suv_data.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.875
+    },
+    "288": {
+        "dataset": "nikniko101v_bcwdata",
+        "csv_file": "bcwd.csv",
+        "label": "0",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9649122807017544
+    },
+    "289": {
+        "dataset": "mysticvalley_balance-scale",
+        "csv_file": "balance-scale.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.088
+    },
+    "290": {
+        "dataset": "jnikhilsai_lettter-rec",
+        "csv_file": "letter-recognition.csv",
+        "label": "0",
+        "model": "SVC",
+        "hi_mean": 0.94925
+    },
+    "291": {
+        "dataset": "hmavrodiev_london-bike-sharing-dataset",
+        "csv_file": "london_merged.csv",
+        "label": "5",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.6738443870226816
+    },
+    "292": {
+        "dataset": "ionaskel_nba-games-stats-from-2014-to-2018",
+        "csv_file": "nba.games.stats.csv",
+        "label": "6",
+        "model": "SVC",
+        "hi_mean": 0.4893292682926829
+    },
+    "293": {
+        "dataset": "maik3141_abalone",
+        "csv_file": "abalone.data.csv",
+        "label": "0",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.5311004784688995
+    },
+    "294": {
+        "dataset": "jruvika_fake-news-detection",
+        "csv_file": "data.csv",
+        "label": "3",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9628571428571429
+    },
+    "295": {
+        "dataset": "ionaskel_nba-games-stats-from-2014-to-2018",
+        "csv_file": "nba.games.stats.csv",
+        "label": "6",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9848484848484849
+    },
+    "296": {
+        "dataset": "lnvardanyan_hr-analytics",
+        "csv_file": "turnover.csv",
+        "label": "6",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.984
+    },
+    "297": {
+        "dataset": "pyim59_pyms-diabete",
+        "csv_file": "diabete.csv",
+        "label": "8",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7987012987012987
+    },
+    "298": {
+        "dataset": "gsaivennela_diabetes",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7012987012987013
+    },
+    "299": {
+        "dataset": "lsingh4_malicious-and-benign-websites",
+        "csv_file": "security.csv",
+        "label": "23",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9628482972136223
+    },
+    "300": {
+        "dataset": "prakrutchauhan_indian-candidates-for-general-election-2019",
+        "csv_file": "LS_2.0.csv",
+        "label": "3",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8601485148514851
+    },
+    "301": {
+        "dataset": "mdshamimrahman_heart-diseases",
+        "csv_file": "datasets_4123_6408_framingham.csv",
+        "label": "15",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7688679245283019
+    },
+    "302": {
+        "dataset": "mansoordaku_ckdisease",
+        "csv_file": "kidney_disease.csv",
+        "label": "24",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9586260330578513
+    },
+    "303": {
+        "dataset": "mrisdal_married-at-first-sight",
+        "csv_file": "mafs.csv",
+        "label": "8",
+        "model": "LogisticRegression",
+        "hi_mean": 0.6428571428571429
+    },
+    "304": {
+        "dataset": "hj5992_bank-churn-modelling",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "SVC",
+        "hi_mean": 0.857
+    },
+    "305": {
+        "dataset": "mrtechnical011_classification-suv-dataset",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "SVC",
+        "hi_mean": 0.95
+    },
+    "306": {
+        "dataset": "johnyquest_wisconsin-breast-cancer-cytology-features",
+        "csv_file": "wisconsin_breast_cancer.csv",
+        "label": "10",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9678571428571429
+    },
+    "307": {
+        "dataset": "jrmistry_killed-or-seriously-injured-ksi-toronto-clean",
+        "csv_file": "KSI_CLEAN.csv",
+        "label": "55",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9231687898089171
+    },
+    "308": {
+        "dataset": "mysticvalley_balance-scale",
+        "csv_file": "balance-scale.csv",
+        "label": "0",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.816
+    },
+    "309": {
+        "dataset": "piyushgoyal443_red-wine-dataset",
+        "csv_file": "wineQualityReds.csv",
+        "label": "12",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.725
+    },
+    "310": {
+        "dataset": "mejbahahammad_datasetknn",
+        "csv_file": "DataSetKNN.csv",
+        "label": "10",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.77
+    },
+    "311": {
+        "dataset": "oaref92_load-predition-training-set",
+        "csv_file": "Train.csv",
+        "label": "12",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8292682926829268
+    },
+    "312": {
+        "dataset": "joousep_regression-kernel",
+        "csv_file": "column_2C_weka.csv",
+        "label": "6",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8225806451612904
+    },
+    "313": {
+        "dataset": "isaikumar_creditcardfraud",
+        "csv_file": "creditcard.csv",
+        "label": "30",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9994908886626171
+    },
+    "314": {
+        "dataset": "mrisdal_married-at-first-sight",
+        "csv_file": "mafs.csv",
+        "label": "5",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.6428571428571429
+    },
+    "315": {
+        "dataset": "mrtechnical011_classification-suv-dataset",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.91875
+    },
+    "316": {
+        "dataset": "pankajjsh06_ibm-watson-marketing-customer-value-data",
+        "csv_file": "WA_Fn-UseC_-Marketing-Customer-Value-Analysis.csv",
+        "label": "3",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9720853858784894
+    },
+    "317": {
+        "dataset": "karthickaravindan_cancer-datsset",
+        "csv_file": "data.csv",
+        "label": "10",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9785714285714285
+    },
+    "318": {
+        "dataset": "linuxarpan_kyposis",
+        "csv_file": "kyphosis.csv",
+        "label": "0",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7058823529411765
+    },
+    "319": {
+        "dataset": "mdmahmudferdous_train-cleaned",
+        "csv_file": "train_cleaned.csv",
+        "label": "0",
+        "model": "SVC",
+        "hi_mean": 0.7206703910614525
+    },
+    "320": {
+        "dataset": "mirichoi0218_insurance",
+        "csv_file": "insurance.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.47761194029850745
+    },
+    "321": {
+        "dataset": "nareshbhat_wine-quality-binary-classification",
+        "csv_file": "wine.csv",
+        "label": "11",
+        "model": "SVC",
+        "hi_mean": 0.75625
+    },
+    "322": {
+        "dataset": "jiangzuo_hr-comma-sep",
+        "csv_file": "HR_comma_sep.csv",
+        "label": "6",
+        "model": "LogisticRegression",
+        "hi_mean": 0.787
+    },
+    "323": {
+        "dataset": "pyim59_pyms-diabete",
+        "csv_file": "diabete.csv",
+        "label": "8",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7103448275862069
+    },
+    "324": {
+        "dataset": "guywhowantstolearnml_parkinsonsxyz",
+        "csv_file": "parkinsons2.csv",
+        "label": "22",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8974358974358975
+    },
+    "325": {
+        "dataset": "hb20007_gender-classification",
+        "csv_file": "Transformed Data Set - Sheet1.csv",
+        "label": "4",
+        "model": "SVC",
+        "hi_mean": 0.7142857142857143
+    },
+    "326": {
+        "dataset": "jacklizhi_creditcard",
+        "csv_file": "creditcard.csv",
+        "label": "30",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9988939995084443
+    },
+    "327": {
+        "dataset": "pritech_vehicle-silhouettes",
+        "csv_file": "vehicle.csv",
+        "label": "18",
+        "model": "SVC",
+        "hi_mean": 0.9570552147239264
+    },
+    "328": {
+        "dataset": "nalkrolu_assay-of-serum-free-light-chain",
+        "csv_file": "flchain.csv",
+        "label": "10",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8742857142857143
+    },
+    "329": {
+        "dataset": "ishandutta_early-stage-diabetes-risk-prediction-dataset",
+        "csv_file": "diabetes_data_upload.csv",
+        "label": "16",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9807692307692307
+    },
+    "330": {
+        "dataset": "louishgy_churn-modelling",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "SVC",
+        "hi_mean": 0.7975
+    },
+    "331": {
+        "dataset": "harinir_hepatitis",
+        "csv_file": "hepatitis.csv",
+        "label": "0",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7586206896551724
+    },
+    "332": {
+        "dataset": "mathchi_diabetes-data-set",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7857142857142857
+    },
+    "333": {
+        "dataset": "manojvinod_diabetes",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7662337662337663
+    },
+    "334": {
+        "dataset": "nikniko101v_seeds-dataset-binary",
+        "csv_file": "seeds_dataset_binary.csv",
+        "label": "7",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9047619047619048
+    },
+    "335": {
+        "dataset": "iamaniket_suv-data",
+        "csv_file": "suv_data.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.95
+    },
+    "336": {
+        "dataset": "piyushgoyal443_red-wine-dataset",
+        "csv_file": "wineQualityReds.csv",
+        "label": "12",
+        "model": "SVC",
+        "hi_mean": 0.646875
+    },
+    "337": {
+        "dataset": "jaisanant_bank-details",
+        "csv_file": "bank.csv",
+        "label": "20",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9089805825242718
+    },
+    "338": {
+        "dataset": "paresh2047_uci-semcom",
+        "csv_file": "uci-secom.csv",
+        "label": "591",
+        "model": "SVC",
+        "hi_mean": 0.9585987261146497
+    },
+    "339": {
+        "dataset": "gouravkumar717_dataset",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7532467532467533
+    },
+    "340": {
+        "dataset": "kuniowu_human-resource",
+        "csv_file": "HR.csv",
+        "label": "6",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7856666666666666
+    },
+    "341": {
+        "dataset": "haidang2001vn_diabetes",
+        "csv_file": "diabetes_data.csv",
+        "label": "8",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8181818181818182
+    },
+    "342": {
+        "dataset": "ninjacoding_breast-cancer-wisconsin-benign-or-malignant",
+        "csv_file": "tumor.csv",
+        "label": "10",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9708029197080292
+    },
+    "343": {
+        "dataset": "kamrankausar_iris-data",
+        "csv_file": "Iris.csv",
+        "label": "5",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9666666666666667
+    },
+    "344": {
+        "dataset": "harithagorle_cervical-cancer",
+        "csv_file": "cervical-cancer.csv",
+        "label": "35",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9461077844311377
+    },
+    "345": {
+        "dataset": "raghupalem_bill_authentication",
+        "csv_file": "bill_authentication.csv",
+        "label": "4",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9890909090909091
+    },
+    "346": {
+        "dataset": "mjeweldhali_heartdata1",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8688524590163934
+    },
+    "347": {
+        "dataset": "mdmahmudferdous_titanic",
+        "csv_file": "titanic_cleaned.csv",
+        "label": "0",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8324022346368715
+    },
+    "348": {
+        "dataset": "johnyquest_wisconsin-breast-cancer-cytology-features",
+        "csv_file": "wisconsin_breast_cancer.csv",
+        "label": "10",
+        "model": "SVC",
+        "hi_mean": 0.9635036496350365
+    },
+    "349": {
+        "dataset": "jithu10_heart-disease-uci-dataset",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7037037037037037
+    },
+    "350": {
+        "dataset": "rahulsah06_machine-learning-for-diabetes-with-python",
+        "csv_file": "diabetes_data.csv",
+        "label": "8",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7857142857142857
+    },
+    "351": {
+        "dataset": "johnyquest_wisconsin-breast-cancer-cytology-features",
+        "csv_file": "wisconsin_breast_cancer.csv",
+        "label": "10",
+        "model": "LogisticRegression",
+        "hi_mean": 0.948905109489051
+    },
+    "352": {
+        "dataset": "loganalive_echocardiogram-uci",
+        "csv_file": "echocardiogram.csv",
+        "label": "1",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.8518518518518519
+    },
+    "353": {
+        "dataset": "overratedgman_mammographic-mass-data-set",
+        "csv_file": "Cleaned_data.csv",
+        "label": "5",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7530120481927711
+    },
+    "354": {
+        "dataset": "kingburrito666_cannabis-strains",
+        "csv_file": "cannabis.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.6050955414012739
+    },
+    "355": {
+        "dataset": "mustafaali96_weight-height",
+        "csv_file": "weight-height.csv",
+        "label": "0",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.8791097622660596
+    },
+    "356": {
+        "dataset": "gouravkumar717_dataset",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8246753246753247
+    },
+    "357": {
+        "dataset": "kumargh_pimaindiansdiabetescsv",
+        "csv_file": "pima-indians-diabetes.csv",
+        "label": "8",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7727272727272727
+    },
+    "358": {
+        "dataset": "mdmahmudferdous_train-cleaned",
+        "csv_file": "train_cleaned.csv",
+        "label": "0",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8212290502793296
+    },
+    "359": {
+        "dataset": "mrisdal_married-at-first-sight",
+        "csv_file": "mafs.csv",
+        "label": "8",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7142857142857143
+    },
+    "360": {
+        "dataset": "raghupalem_bill_authentication",
+        "csv_file": "bill_authentication.csv",
+        "label": "4",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9927272727272727
+    },
+    "361": {
+        "dataset": "gurusalivahan_iris-dataset",
+        "csv_file": "iris.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9666666666666667
+    },
+    "362": {
+        "dataset": "jquinteiro_diabetes",
+        "csv_file": "diabetes_data.csv",
+        "label": "8",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7597402597402597
+    },
+    "363": {
+        "dataset": "mrushan3_bank-marketing",
+        "csv_file": "bank-marketing.csv",
+        "label": "18",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8541162227602905
+    },
+    "364": {
+        "dataset": "prkukunoor_TitanicDataset",
+        "csv_file": "titanic_data.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7134831460674157
+    },
+    "365": {
+        "dataset": "lnvardanyan_hr-analytics",
+        "csv_file": "turnover.csv",
+        "label": "6",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9796666666666667
+    },
+    "366": {
+        "dataset": "lnvardanyan_hr-analytics",
+        "csv_file": "turnover.csv",
+        "label": "6",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9636666666666667
+    },
+    "367": {
+        "dataset": "khotijahs1_datat3rr",
+        "csv_file": "DataT3RR.csv",
+        "label": "7",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9459459459459459
+    },
+    "368": {
+        "dataset": "harinir_hepatitis",
+        "csv_file": "hepatitis.csv",
+        "label": "0",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8275862068965517
+    },
+    "369": {
+        "dataset": "mdmahmudferdous_titanic",
+        "csv_file": "titanic_cleaned.csv",
+        "label": "0",
+        "model": "SVC",
+        "hi_mean": 0.7206703910614525
+    },
+    "370": {
+        "dataset": "greedy93_titanic-survival-data",
+        "csv_file": "titanic_data.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8181818181818182
+    },
+    "371": {
+        "dataset": "wajidsaw_detection-of-parkinson-disease",
+        "csv_file": "parkinsons.csv",
+        "label": "17",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8717948717948718
+    },
+    "372": {
+        "dataset": "sudalairajkumar_indian-startup-funding",
+        "csv_file": "startup_funding.csv",
+        "label": "7",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.48932676518883417
+    },
+    "373": {
+        "dataset": "xwolf12_malicious-and-benign-websites",
+        "csv_file": "dataset.csv",
+        "label": "20",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8944832170156198
+    },
+    "374": {
+        "dataset": "roshansharma_employee-analysis",
+        "csv_file": "employee.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8299319727891157
+    },
+    "375": {
+        "dataset": "utsav15_social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7875
+    },
+    "376": {
+        "dataset": "sriharipramod_bank-loan-classification",
+        "csv_file": "UniversalBank.csv",
+        "label": "9",
+        "model": "SVC",
+        "hi_mean": 0.913
+    },
+    "377": {
+        "dataset": "sajidsaifi_prostate-cancer",
+        "csv_file": "Prostate_Cancer.csv",
+        "label": "1",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8
+    },
+    "378": {
+        "dataset": "rush4ratio_video-game-sales-with-ratings",
+        "csv_file": "Video_Games_Sales_as_at_22_Dec_2016.csv",
+        "label": "15",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7178757705073494
+    },
+    "379": {
+        "dataset": "robjan_ph-recognition",
+        "csv_file": "ph-data.csv",
+        "label": "3",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7862595419847328
+    },
+    "380": {
+        "dataset": "rajansharma780_vehicle",
+        "csv_file": "vehicle.csv",
+        "label": "18",
+        "model": "SVC",
+        "hi_mean": 0.948024178996752
+    },
+    "381": {
+        "dataset": "volodymyrgavrysh_heart-disease",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8852459016393442
+    },
+    "382": {
+        "dataset": "robjan_ph-recognition",
+        "csv_file": "ph-data.csv",
+        "label": "3",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8931297709923663
+    },
+    "383": {
+        "dataset": "shuchirb_ibm-attrition-analysis",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8843537414965986
+    },
+    "384": {
+        "dataset": "vikasukani_diabetes-data-set",
+        "csv_file": "diabetes-dataset.csv",
+        "label": "8",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.785234899328859
+    },
+    "385": {
+        "dataset": "waseemk78_heart-disease-history",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8852459016393442
+    },
+    "386": {
+        "dataset": "roustekbio_breast-cancer-csv",
+        "csv_file": "breastCancer.csv",
+        "label": "10",
+        "model": "LogisticRegression",
+        "hi_mean": 0.948905109489051
+    },
+    "387": {
+        "dataset": "rounakbanik_pokemon",
+        "csv_file": "pokemon.csv",
+        "label": "40",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9751552795031055
+    },
+    "388": {
+        "dataset": "rishal005_loanapproval",
+        "csv_file": "train.csv",
+        "label": "12",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.77
+    },
+    "389": {
+        "dataset": "vijayandrew_us-heart-patients",
+        "csv_file": "US_Heart_Patients.csv",
+        "label": "15",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8596698113207547
+    },
+    "390": {
+        "dataset": "yersever_500-person-gender-height-weight-bodymassindex",
+        "csv_file": "500_Person_Gender_Height_Weight_Index.csv",
+        "label": "3",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.91
+    },
+    "391": {
+        "dataset": "sivaram1987_logistic-socialnetworkads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9125
+    },
+    "392": {
+        "dataset": "sachinsharma1123_performance-prediction",
+        "csv_file": "summary.csv",
+        "label": "20",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7052238805970149
+    },
+    "393": {
+        "dataset": "rainbowgirl_clustering-categorical-peoples-interests",
+        "csv_file": "kaggle_Interests_group.csv",
+        "label": "0",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.49107981220657276
+    },
+    "394": {
+        "dataset": "vinod00725_svm-classification",
+        "csv_file": "UniversalBank.csv",
+        "label": "13",
+        "model": "LogisticRegression",
+        "hi_mean": 0.751
+    },
+    "395": {
+        "dataset": "saurabh00007_diabetescsv",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7954545454545454
+    },
+    "396": {
+        "dataset": "roshansharma_insurance-claim",
+        "csv_file": "insurance_claims.csv",
+        "label": "38",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.735
+    },
+    "397": {
+        "dataset": "sivaram1987_logistic-socialnetworkads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "SVC",
+        "hi_mean": 0.95
+    },
+    "398": {
+        "dataset": "rajacsp_toronto-apartment-price",
+        "csv_file": "Toronto_apartment_rentals_2018.csv",
+        "label": "6",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.3466666666666667
+    },
+    "399": {
+        "dataset": "tedllh_titanic-train",
+        "csv_file": "titanic_train.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.770416169731969
+    },
+    "400": {
+        "dataset": "zagarsuren_telecom-churn-ibm-watson",
+        "csv_file": "watson.csv",
+        "label": "20",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7217885024840313
+    },
+    "401": {
+        "dataset": "thomaskonstantin_the-chasegame-show-israel-episode-data",
+        "csv_file": "The_Chase__Dataset.csv",
+        "label": "22",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7619047619047619
+    },
+    "402": {
+        "dataset": "serpilturanyksel_adult-income",
+        "csv_file": "adult11.csv",
+        "label": "14",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8488074521445389
+    },
+    "403": {
+        "dataset": "vkj284_playercsv",
+        "csv_file": "player.csv",
+        "label": "5",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.3333333333333333
+    },
+    "404": {
+        "dataset": "shubh0799_churn-modelling",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7496062992125985
+    },
+    "405": {
+        "dataset": "volodymyrgavrysh_heart-disease",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "SVC",
+        "hi_mean": 0.8688524590163934
+    },
+    "406": {
+        "dataset": "yersever_500-person-gender-height-weight-bodymassindex",
+        "csv_file": "500_Person_Gender_Height_Weight_Index.csv",
+        "label": "0",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.44
+    },
+    "407": {
+        "dataset": "sazid28_irisdata",
+        "csv_file": "Iris.csv",
+        "label": "5",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9666666666666667
+    },
+    "408": {
+        "dataset": "tanay0948_churndata1",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "LogisticRegression",
+        "hi_mean": 0.789
+    },
+    "409": {
+        "dataset": "ruslankl_mice-protein-expression",
+        "csv_file": "Data_Cortex_Nuclear.csv",
+        "label": "81",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9074074074074074
+    },
+    "410": {
+        "dataset": "saptarsi_breastcancer",
+        "csv_file": "breastcancer.csv",
+        "label": "10",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9562043795620438
+    },
+    "411": {
+        "dataset": "sivaram1987_logistic-socialnetworkads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9
+    },
+    "412": {
+        "dataset": "yusufdede_lung-cancer-dataset",
+        "csv_file": "lung_cancer_examples.csv",
+        "label": "6",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9166666666666666
+    },
+    "413": {
+        "dataset": "rohitsingh24_loan-prediction",
+        "csv_file": "train.csv",
+        "label": "12",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7
+    },
+    "414": {
+        "dataset": "volodymyrgavrysh_heart-disease",
+        "csv_file": "heart.csv",
+        "label": "13",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8524590163934426
+    },
+    "415": {
+        "dataset": "teertha_personal-loan-modeling",
+        "csv_file": "Bank_Personal_Loan_Modelling.csv",
+        "label": "9",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9864999999999999
+    },
+    "416": {
+        "dataset": "rodolfomendes_abalone-dataset",
+        "csv_file": "abalone.csv",
+        "label": "8",
+        "model": "SVC",
+        "hi_mean": 0.4579348480073346
+    },
+    "417": {
+        "dataset": "vijayandrew_us-heart-patients",
+        "csv_file": "US_Heart_Patients.csv",
+        "label": "15",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8360849056603774
+    },
+    "418": {
+        "dataset": "sivaram1987_annchurn-modelling",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "10",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8325
+    },
+    "419": {
+        "dataset": "upadorprofzs_credit-risk",
+        "csv_file": "original.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9175
+    },
+    "420": {
+        "dataset": "vikramnichat_logistic-regressiontitanic",
+        "csv_file": "titanic_train.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7877094972067039
+    },
+    "421": {
+        "dataset": "sh6147782_winequalityred",
+        "csv_file": "winequality-red.csv",
+        "label": "11",
+        "model": "SVC",
+        "hi_mean": 0.578125
+    },
+    "422": {
+        "dataset": "richardluo28_unsw-data-intro",
+        "csv_file": "iris.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9666666666666667
+    },
+    "423": {
+        "dataset": "tbyrnes_advertising",
+        "csv_file": "advertising.csv",
+        "label": "9",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.65
+    },
+    "424": {
+        "dataset": "xwolf12_malicious-and-benign-websites",
+        "csv_file": "dataset.csv",
+        "label": "20",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9814814814814815
+    },
+    "425": {
+        "dataset": "somnathpathak_bank-personal-loan-modelling",
+        "csv_file": "Bank_Personal_Loan_Modelling.csv",
+        "label": "9",
+        "model": "SVC",
+        "hi_mean": 0.913
+    },
+    "426": {
+        "dataset": "shubh0799_churn-modelling",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.866
+    },
+    "427": {
+        "dataset": "sivaram1987_logistic-socialnetworkads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.925
+    },
+    "428": {
+        "dataset": "sharmavasundhara_absenteeism-data",
+        "csv_file": "absenteeism_data.csv",
+        "label": "11",
+        "model": "LogisticRegression",
+        "hi_mean": 0.75
+    },
+    "429": {
+        "dataset": "siboli1_snw2018",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.95
+    },
+    "430": {
+        "dataset": "sivaram1987_logistic-socialnetworkads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.95
+    },
+    "431": {
+        "dataset": "suchitgupta60_imdb-data",
+        "csv_file": "movie_metadata.csv",
+        "label": "27",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.5730223123732252
+    },
+    "432": {
+        "dataset": "yashnaik12_heart-patients",
+        "csv_file": "US_Heart_Patients.csv",
+        "label": "15",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8306010928961749
+    },
+    "433": {
+        "dataset": "sonalidasgupta95_churn-prediction-of-bank-customers",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.836
+    },
+    "434": {
+        "dataset": "ukveteran_survival-from-malignant-melanoma",
+        "csv_file": "melanoma.csv",
+        "label": "2",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7317073170731707
+    },
+    "435": {
+        "dataset": "ranand60_binaryclassification",
+        "csv_file": "data.csv",
+        "label": "0",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9957
+    },
+    "436": {
+        "dataset": "sriharipramod_bank-loan-classification",
+        "csv_file": "UniversalBank.csv",
+        "label": "9",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.91
+    },
+    "437": {
+        "dataset": "raipiyush558_social-network-ad",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "SVC",
+        "hi_mean": 0.95
+    },
+    "438": {
+        "dataset": "rouseguy_bankbalanced",
+        "csv_file": "bank.csv",
+        "label": "16",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8474393530997305
+    },
+    "439": {
+        "dataset": "rtatman_chocolate-bar-ratings",
+        "csv_file": "flavors_of_cacao.csv",
+        "label": "6",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.713091922005571
+    },
+    "440": {
+        "dataset": "rush4ratio_video-game-sales-with-ratings",
+        "csv_file": "Video_Games_Sales_as_at_22_Dec_2016.csv",
+        "label": "9",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8766437069505323
+    },
+    "441": {
+        "dataset": "shubh0799_churn-modelling",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "SVC",
+        "hi_mean": 0.7975
+    },
+    "442": {
+        "dataset": "vmalyi_run-or-walk",
+        "csv_file": "dataset.csv",
+        "label": "4",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9912518342928096
+    },
+    "443": {
+        "dataset": "residentmario_ramen-ratings",
+        "csv_file": "ramen-ratings.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.3313953488372093
+    },
+    "444": {
+        "dataset": "udhhav_cancer",
+        "csv_file": "Data.csv",
+        "label": "10",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9416058394160584
+    },
+    "445": {
+        "dataset": "residentmario_ramen-ratings",
+        "csv_file": "ramen-ratings.csv",
+        "label": "3",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8837209302325582
+    },
+    "446": {
+        "dataset": "tedllh_titanic-train",
+        "csv_file": "titanic_train.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8715083798882681
+    },
+    "447": {
+        "dataset": "rahulsah06_machine-learning-for-diabetes-with-python",
+        "csv_file": "diabetes_data.csv",
+        "label": "8",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8051948051948052
+    },
+    "448": {
+        "dataset": "yashnaik12_heart-patients",
+        "csv_file": "US_Heart_Patients.csv",
+        "label": "15",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7608173076923077
+    },
+    "449": {
+        "dataset": "tularamsahu_kaggle-join-data-with-preproces",
+        "csv_file": "data.csv",
+        "label": "1",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8625954198473282
+    },
+    "450": {
+        "dataset": "vijayashreer_food-preferences",
+        "csv_file": "Food_Preference.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7017543859649122
+    },
+    "451": {
+        "dataset": "toramky_automobile-dataset",
+        "csv_file": "Automobile_data.csv",
+        "label": "0",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8536585365853658
+    },
+    "452": {
+        "dataset": "shivam1901_pulsar-star",
+        "csv_file": "pulsar_stars.csv",
+        "label": "8",
+        "model": "SVC",
+        "hi_mean": 0.9826815642458101
+    },
+    "453": {
+        "dataset": "yersever_500-person-gender-height-weight-bodymassindex",
+        "csv_file": "500_Person_Gender_Height_Weight_Index.csv",
+        "label": "3",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.88
+    },
+    "454": {
+        "dataset": "shubh0799_churn-modelling",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7159447583176397
+    },
+    "455": {
+        "dataset": "steveahn_memory-test-on-drugged-islanders-data",
+        "csv_file": "Islander_data.csv",
+        "label": "3",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.575
+    },
+    "456": {
+        "dataset": "teertha_personal-loan-modeling",
+        "csv_file": "Bank_Personal_Loan_Modelling.csv",
+        "label": "9",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.91
+    },
+    "457": {
+        "dataset": "rishidamarla_heart-disease-prediction",
+        "csv_file": "Heart_Disease_Prediction.csv",
+        "label": "13",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7037037037037037
+    },
+    "458": {
+        "dataset": "shubham9696_dectecting-phishing-website-using-machine-learning",
+        "csv_file": "dataset.csv",
+        "label": "31",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9706015377657169
+    },
+    "459": {
+        "dataset": "vineyprotocol_diabetes",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7662337662337663
+    },
+    "460": {
+        "dataset": "teertha_personal-loan-modeling",
+        "csv_file": "Bank_Personal_Loan_Modelling.csv",
+        "label": "9",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9795918367346939
+    },
+    "461": {
+        "dataset": "tbyrnes_advertising",
+        "csv_file": "advertising.csv",
+        "label": "9",
+        "model": "LogisticRegression",
+        "hi_mean": 0.915
+    },
+    "462": {
+        "dataset": "sdhilip_nutrient-analysis-of-pizzas",
+        "csv_file": "Pizza.csv",
+        "label": "0",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.8333333333333334
+    },
+    "463": {
+        "dataset": "sefakocakalay_diabets",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "SVC",
+        "hi_mean": 0.7922077922077922
+    },
+    "464": {
+        "dataset": "wanglaiqi_pimaindiansdiabetesdata",
+        "csv_file": "pima-indians-diabetes.data.csv",
+        "label": "8",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7272727272727273
+    },
+    "465": {
+        "dataset": "shainy_twitter-reviews-for-emotion-analysis",
+        "csv_file": "data.csv",
+        "label": "3",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.8857285429141717
+    },
+    "466": {
+        "dataset": "wpncrh_marginal-revolution-blog-post-data",
+        "csv_file": "cleanedmrdata.csv",
+        "label": "0",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9024676850763808
+    },
+    "467": {
+        "dataset": "somesh24_spambase",
+        "csv_file": "spambase_csv.csv",
+        "label": "57",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9098805646036916
+    },
+    "468": {
+        "dataset": "sazid28_diabetes",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7662337662337663
+    },
+    "469": {
+        "dataset": "shuchirb_ibm-attrition-analysis",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7346938775510204
+    },
+    "470": {
+        "dataset": "shivasandeep_dataset",
+        "csv_file": "advertising.csv",
+        "label": "9",
+        "model": "LogisticRegression",
+        "hi_mean": 0.915
+    },
+    "471": {
+        "dataset": "vikash1a2b3c_irish-dataset",
+        "csv_file": "irish.csv",
+        "label": "4",
+        "model": "SVC",
+        "hi_mean": 0.6333333333333333
+    },
+    "472": {
+        "dataset": "sundarml_transport-speed-violation",
+        "csv_file": "prm_1_2.csv",
+        "label": "6",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8166666666666667
+    },
+    "473": {
+        "dataset": "xwolf12_malicious-and-benign-websites",
+        "csv_file": "dataset.csv",
+        "label": "20",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9551820728291317
+    },
+    "474": {
+        "dataset": "yersever_500-person-gender-height-weight-bodymassindex",
+        "csv_file": "500_Person_Gender_Height_Weight_Index.csv",
+        "label": "3",
+        "model": "LogisticRegression",
+        "hi_mean": 0.65
+    },
+    "475": {
+        "dataset": "shashank544653201_redwinequality",
+        "csv_file": "datasets_4458_8204_winequality-red.csv",
+        "label": "11",
+        "model": "SVC",
+        "hi_mean": 0.921875
+    },
+    "476": {
+        "dataset": "ravijaiswal_empdataset",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.891156462585034
+    },
+    "477": {
+        "dataset": "wduckett_moneyball-mlb-stats-19622012",
+        "csv_file": "baseball.csv",
+        "label": "9",
+        "model": "SVC",
+        "hi_mean": 0.9959514170040485
+    },
+    "478": {
+        "dataset": "syedtouqeer_classification-decision-tree-classifier",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9
+    },
+    "479": {
+        "dataset": "rodolfomendes_abalone-dataset",
+        "csv_file": "abalone.csv",
+        "label": "8",
+        "model": "LogisticRegression",
+        "hi_mean": 0.2915601023017903
+    },
+    "480": {
+        "dataset": "tug004_3wine-classification-dataset",
+        "csv_file": "wine.csv",
+        "label": "0",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9722222222222222
+    },
+    "481": {
+        "dataset": "shwetabh123_mall-customers",
+        "csv_file": "Mall_Customers.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.625
+    },
+    "482": {
+        "dataset": "shashank3297_bank-personal",
+        "csv_file": "Bank_Personal_Loan_Modelling.csv",
+        "label": "9",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.917
+    },
+    "483": {
+        "dataset": "rounakbanik_pokemon",
+        "csv_file": "pokemon.csv",
+        "label": "36",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9192546583850931
+    },
+    "484": {
+        "dataset": "souravbhattacharya10_irisdataset",
+        "csv_file": "Iris.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9666666666666667
+    },
+    "485": {
+        "dataset": "ravijonnalagadda_capstone-car-accident-serveity",
+        "csv_file": "Data_Collisions.csv",
+        "label": "13",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.6574834437086092
+    },
+    "486": {
+        "dataset": "reshmaraja_titanic-datasets",
+        "csv_file": "titanic.csv",
+        "label": "1",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.8268156424581006
+    },
+    "487": {
+        "dataset": "vineyprotocol_diabetes",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7857142857142857
+    },
+    "488": {
+        "dataset": "sajidvali_loan-prediction",
+        "csv_file": "loan-prediction.csv",
+        "label": "12",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.6585365853658537
+    },
+    "489": {
+        "dataset": "ruiromanini_mtcars",
+        "csv_file": "mtcars.csv",
+        "label": "9",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7142857142857143
+    },
+    "490": {
+        "dataset": "srikanthmalyala_cristiano7",
+        "csv_file": "data.csv",
+        "label": "10",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.5750487329434698
+    },
+    "491": {
+        "dataset": "rohitsingh24_diabetes",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8051948051948052
+    },
+    "492": {
+        "dataset": "vinod00725_svm-classification",
+        "csv_file": "UniversalBank.csv",
+        "label": "13",
+        "model": "SVC",
+        "hi_mean": 0.749
+    },
+    "493": {
+        "dataset": "yusufdede_lung-cancer-dataset",
+        "csv_file": "lung_cancer_examples.csv",
+        "label": "6",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9166666666666666
+    },
+    "494": {
+        "dataset": "sabinhashmi_sigma-cab-price-surge",
+        "csv_file": "train.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.6794896137925797
+    },
+    "495": {
+        "dataset": "saurav9786_cardiogoodfitness",
+        "csv_file": "CardioGoodFitness.csv",
+        "label": "0",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.4666666666666667
+    },
+    "496": {
+        "dataset": "robjan_ph-recognition",
+        "csv_file": "ph-data.csv",
+        "label": "3",
+        "model": "SVC",
+        "hi_mean": 0.7175572519083969
+    },
+    "497": {
+        "dataset": "adammaus_predicting-churn-for-bank-customers",
+        "csv_file": "Churn_Modelling.csv",
+        "label": "13",
+        "model": "SVC",
+        "hi_mean": 0.7975
+    },
+    "498": {
+        "dataset": "fayomi_advertising",
+        "csv_file": "advertising.csv",
+        "label": "9",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.955
+    },
+    "499": {
+        "dataset": "mathan_fifa-2018-match-statistics",
+        "csv_file": "FIFA 2018 Statistics.csv",
+        "label": "20",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8076923076923077
+    },
+    "500": {
+        "dataset": "imnikhilanand_heart-attack-prediction",
+        "csv_file": "data.csv",
+        "label": "13",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7543859649122807
+    },
+    "501": {
+        "dataset": "janiobachmann_bank-marketing-dataset",
+        "csv_file": "bank.csv",
+        "label": "16",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7398119122257053
+    },
+    "502": {
+        "dataset": "heptapod_titanic",
+        "csv_file": "train_and_test2.csv",
+        "label": "27",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7442748091603053
+    },
+    "503": {
+        "dataset": "shuofxz_titanic-machine-learning-from-disaster",
+        "csv_file": "train.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7134831460674157
+    },
+    "504": {
+        "dataset": "janiobachmann_bank-marketing-dataset",
+        "csv_file": "bank.csv",
+        "label": "16",
+        "model": "SVC",
+        "hi_mean": 0.7357814599193909
+    },
+    "505": {
+        "dataset": "ibm-hr-analytics-attrition-dataset",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8726919339164236
+    },
+    "506": {
+        "dataset": "absenteeismatwork",
+        "csv_file": "Absenteeism_at_work.csv",
+        "label": "14",
+        "model": "SVC",
+        "hi_mean": 0.4194015444015444
+    },
+    "507": {
+        "dataset": "absenteeismatwork",
+        "csv_file": "Absenteeism_at_work.csv",
+        "label": "14",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.3832046332046332
+    },
+    "508": {
+        "dataset": "ibm-hr-analytics-attrition-dataset",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "SVC",
+        "hi_mean": 0.8945578231292517
+    },
+    "509": {
+        "dataset": "adult-census-income",
+        "csv_file": "adult.csv",
+        "label": "14",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8485002726701237
+    },
+    "510": {
+        "dataset": "sloan-digital-sky-survey",
+        "csv_file": "Skyserver_SQL2_27_2018 6_51_39 PM.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9881249999999999
+    },
+    "511": {
+        "dataset": "predicting-a-pulsar-star",
+        "csv_file": "pulsar_stars.csv",
+        "label": "8",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9653091247672254
+    },
+    "512": {
+        "dataset": "red-wine-quality-cortez-et-al-2009",
+        "csv_file": "winequality-red.csv",
+        "label": "11",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.6734375
+    },
+    "513": {
+        "dataset": "weather-dataset-rattle-package",
+        "csv_file": "weatherAUS.csv",
+        "label": "23",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8431712931822531
+    },
+    "514": {
+        "dataset": "weather-dataset-rattle-package",
+        "csv_file": "weatherAUS.csv",
+        "label": "23",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8588959269428323
+    },
+    "515": {
+        "dataset": "telecom-churn-ibm-watson",
+        "csv_file": "watson.csv",
+        "label": "20",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7679205110007097
+    },
+    "516": {
+        "dataset": "weather-dataset-rattle-package",
+        "csv_file": "weatherAUS.csv",
+        "label": "23",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.8013986618986981
+    },
+    "517": {
+        "dataset": "predicting-a-pulsar-star",
+        "csv_file": "pulsar_stars.csv",
+        "label": "8",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.979050279329609
+    },
+    "518": {
+        "dataset": "predicting-a-pulsar-star",
+        "csv_file": "pulsar_stars.csv",
+        "label": "8",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9835195530726257
+    },
+    "519": {
+        "dataset": "social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7749999999999999
+    },
+    "520": {
+        "dataset": "social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.825
+    },
+    "521": {
+        "dataset": "voicegender",
+        "csv_file": "voice.csv",
+        "label": "20",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9565782148821673
+    },
+    "522": {
+        "dataset": "classification",
+        "csv_file": "Dataset_for_Classification.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8401360544217688
+    },
+    "523": {
+        "dataset": "telco-customer-churn",
+        "csv_file": "WA_Fn-UseC_-Telco-Customer-Churn.csv",
+        "label": "20",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7742947496662951
+    },
+    "524": {
+        "dataset": "mammographic-mass-data-set",
+        "csv_file": "Cleaned_data.csv",
+        "label": "5",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7530120481927711
+    },
+    "525": {
+        "dataset": "voicegender",
+        "csv_file": "voice.csv",
+        "label": "20",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8914300736067298
+    },
+    "526": {
+        "dataset": "hr-analytics",
+        "csv_file": "turnover.csv",
+        "label": "6",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9836666666666667
+    },
+    "527": {
+        "dataset": "voicegender",
+        "csv_file": "voice.csv",
+        "label": "20",
+        "model": "SVC",
+        "hi_mean": 0.8091482649842272
+    },
+    "528": {
+        "dataset": "adult-census-income",
+        "csv_file": "adult.csv",
+        "label": "14",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.8115365489806067
+    },
+    "529": {
+        "dataset": "telco-customer-churn",
+        "csv_file": "WA_Fn-UseC_-Telco-Customer-Churn.csv",
+        "label": "20",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7265079564446564
+    },
+    "530": {
+        "dataset": "logistic-regression",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "SVC",
+        "hi_mean": 0.79375
+    },
+    "531": {
+        "dataset": "indian-liver-patient-records",
+        "csv_file": "indian_liver_patient.csv",
+        "label": "10",
+        "model": "LogisticRegression",
+        "hi_mean": 0.684779939090284
+    },
+    "532": {
+        "dataset": "mice-protein-expression",
+        "csv_file": "Data_Cortex_Nuclear.csv",
+        "label": "81",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9174174174174174
+    },
+    "533": {
+        "dataset": "telco-customer-churn",
+        "csv_file": "WA_Fn-UseC_-Telco-Customer-Churn.csv",
+        "label": "20",
+        "model": "LogisticRegression",
+        "hi_mean": 0.795025327965125
+    },
+    "534": {
+        "dataset": "red-wine-quality-cortez-et-al-2009",
+        "csv_file": "winequality-red.csv",
+        "label": "11",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8053125
+    },
+    "535": {
+        "dataset": "red-wine-quality-cortez-et-al-2009",
+        "csv_file": "winequality-red.csv",
+        "label": "11",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.8302083333333332
+    },
+    "536": {
+        "dataset": "red-wine-quality-cortez-et-al-2009",
+        "csv_file": "winequality-red.csv",
+        "label": "11",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8207962803595333
+    },
+    "537": {
+        "dataset": "social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9
+    },
+    "538": {
+        "dataset": "xAPI-Edu-Data",
+        "csv_file": "xAPI-Edu-Data.csv",
+        "label": "0",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.5520833333333334
+    },
+    "539": {
+        "dataset": "predicting-a-pulsar-star",
+        "csv_file": "pulsar_stars.csv",
+        "label": "8",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9830167597765364
+    },
+    "540": {
+        "dataset": "indian-liver-patient-records",
+        "csv_file": "indian_liver_patient.csv",
+        "label": "10",
+        "model": "SVC",
+        "hi_mean": 0.6900972590627763
+    },
+    "541": {
+        "dataset": "voicegender",
+        "csv_file": "voice.csv",
+        "label": "20",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9802839116719242
+    },
+    "542": {
+        "dataset": "indian-liver-patient-records",
+        "csv_file": "indian_liver_patient.csv",
+        "label": "10",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.6772030651340996
+    },
+    "543": {
+        "dataset": "hr-comma-sep",
+        "csv_file": "HR_comma_sep.csv",
+        "label": "6",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7952000000000001
+    },
+    "544": {
+        "dataset": "spotifyclassification",
+        "csv_file": "data.csv",
+        "label": "14",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7178217821782178
+    },
+    "545": {
+        "dataset": "wisc-bc-data",
+        "csv_file": "wisc_bc_data.csv",
+        "label": "1",
+        "model": "SVC",
+        "hi_mean": 0.9298245614035088
+    },
+    "546": {
+        "dataset": "absenteeismatwork",
+        "csv_file": "Absenteeism_at_work.csv",
+        "label": "14",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.43330115830115834
+    },
+    "547": {
+        "dataset": "users-of-a-social-networks-who-bought-suv",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8249999999999998
+    },
+    "548": {
+        "dataset": "hmeq-data",
+        "csv_file": "hmeq.csv",
+        "label": "0",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9218953602249655
+    },
+    "549": {
+        "dataset": "hr-comma-sepcsv",
+        "csv_file": "HR_comma_sep.csv",
+        "label": "6",
+        "model": "LogisticRegression",
+        "hi_mean": 0.787
+    },
+    "550": {
+        "dataset": "xAPI-Edu-Data",
+        "csv_file": "xAPI-Edu-Data.csv",
+        "label": "16",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.6458333333333334
+    },
+    "551": {
+        "dataset": "titanic-train",
+        "csv_file": "titanic_train.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7134831460674157
+    },
+    "552": {
+        "dataset": "churn-in-telecoms-dataset",
+        "csv_file": "bigml_59c28831336c6604c800002a.csv",
+        "label": "20",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8665667166416792
+    },
+    "553": {
+        "dataset": "logistic-regression",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8647058823529411
+    },
+    "554": {
+        "dataset": "advertising",
+        "csv_file": "advertising.csv",
+        "label": "9",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.675
+    },
+    "555": {
+        "dataset": "social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "SVC",
+        "hi_mean": 0.8214285714285714
+    },
+    "556": {
+        "dataset": "eye-movement-data-eeg-1",
+        "csv_file": "eye movement.csv",
+        "label": "14",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9632843791722296
+    },
+    "557": {
+        "dataset": "ibm-hr-analytics-attrition-dataset",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8428571428571429
+    },
+    "558": {
+        "dataset": "starcraft-ii-replay-analysis",
+        "csv_file": "starcraft.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.3458083832335329
+    },
+    "559": {
+        "dataset": "bank-marketing-dataset",
+        "csv_file": "bank.csv",
+        "label": "16",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7407075682937752
+    },
+    "560": {
+        "dataset": "loandata",
+        "csv_file": "Loan payments data.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.95
+    },
+    "561": {
+        "dataset": "car-evaluation-data-set",
+        "csv_file": "car_evaluation.csv",
+        "label": "6",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9277456647398844
+    },
+    "562": {
+        "dataset": "birds-bones-and-living-habits",
+        "csv_file": "bird.csv",
+        "label": "11",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7469879518072289
+    },
+    "563": {
+        "dataset": "predicting-a-pulsar-star",
+        "csv_file": "pulsar_stars.csv",
+        "label": "8",
+        "model": "SVC",
+        "hi_mean": 0.9531424581005588
+    },
+    "564": {
+        "dataset": "employee-attrition-data",
+        "csv_file": "MFG10YearTerminationData.csv",
+        "label": "16",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9880173195045816
+    },
+    "565": {
+        "dataset": "voicegender",
+        "csv_file": "voice.csv",
+        "label": "20",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9668769716088328
+    },
+    "566": {
+        "dataset": "diabetes",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7662337662337663
+    },
+    "567": {
+        "dataset": "advertising",
+        "csv_file": "advertising.csv",
+        "label": "9",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9166666666666666
+    },
+    "568": {
+        "dataset": "employee-attrition",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8639455782312925
+    },
+    "569": {
+        "dataset": "red-wine-quality-cortez-et-al-2009",
+        "csv_file": "winequality-red.csv",
+        "label": "11",
+        "model": "SVC",
+        "hi_mean": 0.7642361111111111
+    },
+    "570": {
+        "dataset": "telco-customer-churn",
+        "csv_file": "WA_Fn-UseC_-Telco-Customer-Churn.csv",
+        "label": "20",
+        "model": "SVC",
+        "hi_mean": 0.7793828182417528
+    },
+    "571": {
+        "dataset": "student-grade-prediction",
+        "csv_file": "student-mat.csv",
+        "label": "32",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.5569620253164558
+    },
+    "572": {
+        "dataset": "social-network-ads",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.925
+    },
+    "573": {
+        "dataset": "loan-predication",
+        "csv_file": "train_u6lujuX_CVtuZ9i (1).csv",
+        "label": "12",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7989075203252032
+    },
+    "574": {
+        "dataset": "human-resource",
+        "csv_file": "HR_comma_sep.csv",
+        "label": "6",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9786666666666667
+    },
+    "575": {
+        "dataset": "customer-segmentation-tutorial-in-python",
+        "csv_file": "Mall_Customers.csv",
+        "label": "1",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.45
+    },
+    "576": {
+        "dataset": "adult-census-income",
+        "csv_file": "adult.csv",
+        "label": "14",
+        "model": "SVC",
+        "hi_mean": 0.7740826581297218
+    },
+    "577": {
+        "dataset": "xAPI-Edu-Data",
+        "csv_file": "xAPI-Edu-Data.csv",
+        "label": "0",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.5625
+    },
+    "578": {
+        "dataset": "indian-liver-patient-records",
+        "csv_file": "indian_liver_patient.csv",
+        "label": "10",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.6917703055427606
+    },
+    "579": {
+        "dataset": "mental-health-in-tech-survey",
+        "csv_file": "survey.csv",
+        "label": "18",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.795774647887324
+    },
+    "580": {
+        "dataset": "diabetescsv",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7532467532467533
+    },
+    "581": {
+        "dataset": "ibm-attrition-analysis",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8571428571428572
+    },
+    "582": {
+        "dataset": "english-premier-league-players-dataset",
+        "csv_file": "epldata_final.csv",
+        "label": "16",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8494623655913979
+    },
+    "583": {
+        "dataset": "hmeq-data",
+        "csv_file": "hmeq.csv",
+        "label": "0",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9049034175334324
+    },
+    "584": {
+        "dataset": "ibm-hr-analytics-attrition-dataset",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7505668934240363
+    },
+    "585": {
+        "dataset": "xAPI-Edu-Data",
+        "csv_file": "xAPI-Edu-Data.csv",
+        "label": "16",
+        "model": "SVC",
+        "hi_mean": 0.4791666666666667
+    },
+    "586": {
+        "dataset": "bank-marketing",
+        "csv_file": "bank.csv",
+        "label": "16",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7850425436632333
+    },
+    "587": {
+        "dataset": "international-football-results-from-1872-to-2017",
+        "csv_file": "results.csv",
+        "label": "8",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8389035825919692
+    },
+    "588": {
+        "dataset": "falldata",
+        "csv_file": "falldeteciton.csv",
+        "label": "0",
+        "model": "SVC",
+        "hi_mean": 0.531427211307479
+    },
+    "589": {
+        "dataset": "ibm-hr-analytics-attrition-dataset",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8367346938775511
+    },
+    "590": {
+        "dataset": "xAPI-Edu-Data",
+        "csv_file": "xAPI-Edu-Data.csv",
+        "label": "16",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8020833333333334
+    },
+    "591": {
+        "dataset": "sloan-digital-sky-survey",
+        "csv_file": "Skyserver_SQL2_27_2018 6_51_39 PM.csv",
+        "label": "13",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8645
+    },
+    "592": {
+        "dataset": "xAPI-Edu-Data",
+        "csv_file": "xAPI-Edu-Data.csv",
+        "label": "16",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.71875
+    },
+    "593": {
+        "dataset": "telco-customer-churn",
+        "csv_file": "WA_Fn-UseC_-Telco-Customer-Churn.csv",
+        "label": "20",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.7711442786069652
+    },
+    "594": {
+        "dataset": "bank-marketing-dataset",
+        "csv_file": "bank.csv",
+        "label": "16",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7913121361397224
+    },
+    "595": {
+        "dataset": "22000-scotch-whisky-reviews",
+        "csv_file": "scotch_review.csv",
+        "label": "2",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8711111111111111
+    },
+    "596": {
+        "dataset": "logistic-regression",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.9
+    },
+    "597": {
+        "dataset": "churn-in-telecoms-dataset",
+        "csv_file": "bigml_59c28831336c6604c800002a.csv",
+        "label": "20",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9460269865067467
+    },
+    "598": {
+        "dataset": "diabetescsv",
+        "csv_file": "diabetes.csv",
+        "label": "8",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8181818181818182
+    },
+    "599": {
+        "dataset": "falldata",
+        "csv_file": "falldeteciton.csv",
+        "label": "0",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.6628013426914862
+    },
+    "600": {
+        "dataset": "wisc-bc-data",
+        "csv_file": "wisc_bc_data.csv",
+        "label": "1",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9298245614035088
+    },
+    "601": {
+        "dataset": "loan-predication",
+        "csv_file": "train_u6lujuX_CVtuZ9i (1).csv",
+        "label": "12",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.59375
+    },
+    "602": {
+        "dataset": "users-of-a-social-networks-who-bought-suv",
+        "csv_file": "Social_Network_Ads.csv",
+        "label": "4",
+        "model": "LogisticRegression",
+        "hi_mean": 0.725
+    },
+    "603": {
+        "dataset": "fertility-data-set",
+        "csv_file": "fertility.csv",
+        "label": "9",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9
+    },
+    "604": {
+        "dataset": "churn-in-telecoms-dataset",
+        "csv_file": "bigml_59c28831336c6604c800002a.csv",
+        "label": "20",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.896551724137931
+    },
+    "605": {
+        "dataset": "bank-marketing-dataset",
+        "csv_file": "bank.csv",
+        "label": "16",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7828034034930587
+    },
+    "606": {
+        "dataset": "loandata",
+        "csv_file": "Loan payments data.csv",
+        "label": "1",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.95
+    },
+    "607": {
+        "dataset": "malicious-and-benign-websites",
+        "csv_file": "security.csv",
+        "label": "23",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.9628482972136223
+    },
+    "608": {
+        "dataset": "falldata",
+        "csv_file": "falldeteciton.csv",
+        "label": "0",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.6917912725053402
+    },
+    "609": {
+        "dataset": "absenteeismatwork",
+        "csv_file": "Absenteeism_at_work.csv",
+        "label": "14",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.47297297297297297
+    },
+    "610": {
+        "dataset": "abalone-dataset",
+        "csv_file": "abalone.csv",
+        "label": "8",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.645933014354067
+    },
+    "611": {
+        "dataset": "starcraft-ii-replay-analysis",
+        "csv_file": "starcraft.csv",
+        "label": "1",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.2994011976047904
+    },
+    "612": {
+        "dataset": "wisc-bc-data",
+        "csv_file": "wisc_bc_data.csv",
+        "label": "1",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.9473684210526315
+    },
+    "613": {
+        "dataset": "adult-census-income",
+        "csv_file": "adult.csv",
+        "label": "14",
+        "model": "LogisticRegression",
+        "hi_mean": 0.7624750499001997
+    },
+    "614": {
+        "dataset": "wine-pca",
+        "csv_file": "Wine.csv",
+        "label": "13",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9444444444444444
+    },
+    "615": {
+        "dataset": "customer-segmentation-tutorial-in-python",
+        "csv_file": "Mall_Customers.csv",
+        "label": "1",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.575
+    },
+    "616": {
+        "dataset": "ibm-attrition-analysis",
+        "csv_file": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+        "label": "1",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7346938775510204
+    },
+    "617": {
+        "dataset": "weather-dataset-rattle-package",
+        "csv_file": "weatherAUS.csv",
+        "label": "23",
+        "model": "LogisticRegression",
+        "hi_mean": 0.9349824106736971
+    },
+    "618": {
+        "dataset": "noshowappointments",
+        "csv_file": "KaggleV2-May-2016.csv",
+        "label": "13",
+        "model": "DecisionTreeClassifier",
+        "hi_mean": 0.7997611371641988
+    },
+    "619": {
+        "dataset": "noshowappointments",
+        "csv_file": "KaggleV2-May-2016.csv",
+        "label": "13",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7787930878494527
+    },
+    "620": {
+        "dataset": "clinvar-conflicting",
+        "csv_file": "clinvar_conflicting.csv",
+        "label": "18",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.7630004601932812
+    },
+    "621": {
+        "dataset": "analyze-helpdesk-tickets",
+        "csv_file": "WA_Fn-UseC_-IT-Help-Desk.csv",
+        "label": "9",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.30905
+    },
+    "622": {
+        "dataset": "adult-income-dataset",
+        "csv_file": "adult.csv",
+        "label": "14",
+        "model": "KNeighborsClassifier",
+        "hi_mean": 0.8156579960039885
+    },
+    "623": {
+        "dataset": "adult-income-dataset",
+        "csv_file": "adult.csv",
+        "label": "14",
+        "model": "RandomForestClassifier",
+        "hi_mean": 0.8464530658204524
+    },
+    "624": {
+        "dataset": "chicago-bike-sharedatasetprediction",
+        "csv_file": "dataset_prediction.csv",
+        "label": "14",
+        "model": "LogisticRegression",
+        "hi_mean": 0.015020219526285385
+    },
+    "625": {
+        "dataset": "noshowappointments",
+        "csv_file": "KaggleV2-May-2016.csv",
+        "label": "13",
+        "model": "LogisticRegression",
+        "hi_mean": 0.8018185108115444
+    }
+}
