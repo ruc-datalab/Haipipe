@@ -1,0 +1,835 @@
+{
+    "ronitf_heart-disease-uci_LogisticRegression_13": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "blastchar_telco-customer-churn_LogisticRegression_20": [
+        "VarianceThreshold",
+        "PolynomialFeatures",
+        "MinMaxScaler"
+    ],
+    "abcsds_pokemon_RandomForestClassifier_12": [
+        "VarianceThreshold",
+        "KernelPCA",
+        "MaxAbsScaler"
+    ],
+    "adammaus_predicting-churn-for-bank-customers_RandomForestClassifier_13": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "merishnasuwal_breast-cancer-prediction-dataset_RandomForestClassifier_5": [
+        "InteractionFeatures",
+        "PowerTransformer"
+    ],
+    "hesh97_titanicdataset-traincsv_LogisticRegression_1": [
+        "VarianceThreshold",
+        "InteractionFeatures",
+        "MaxAbsScaler"
+    ],
+    "heptapod_titanic_LogisticRegression_27": [
+        "InteractionFeatures",
+        "RobustScaler"
+    ],
+    "ajay1735_hmeq-data_RandomForestClassifier_0": [
+        "MinMaxScaler",
+        "PCA_AUTO"
+    ],
+    "primaryobjects_voicegender_SVC_20": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "janiobachmann_bank-marketing-dataset_RandomForestClassifier_16": [
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "joniarroba_noshowappointments_LogisticRegression_13": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "fayomi_advertising_LogisticRegression_9": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "aljarah_xAPI-Edu-Data_RandomForestClassifier_16": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "sammy123_lower-back-pain-symptoms-dataset_LogisticRegression_12": [
+        "VarianceThreshold",
+        "PolynomialFeatures",
+        "MinMaxScaler"
+    ],
+    "kandij_diabetes-dataset_LogisticRegression_8": [
+        "KernelPCA",
+        "MaxAbsScaler"
+    ],
+    "shuofxz_titanic-machine-learning-from-disaster_RandomForestClassifier_1": [
+        "VarianceThreshold",
+        "InteractionFeatures",
+        "MaxAbsScaler"
+    ],
+    "elikplim_car-evaluation-data-set_KNeighborsClassifier_6": [
+        "MaxAbsScaler",
+        "PolynomialFeatures"
+    ],
+    "barelydedicated_bank-customer-churn-modeling_RandomForestClassifier_13": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "ninzaami_loan-predication_RandomForestClassifier_12": [
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "pavansubhasht_ibm-hr-analytics-attrition-dataset_LogisticRegression_1": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "becksddf_churn-in-telecoms-dataset_RandomForestClassifier_20": [
+        "VarianceThreshold",
+        "InteractionFeatures",
+        "MaxAbsScaler"
+    ],
+    "dileep070_heart-disease-prediction-using-logistic-regression_LogisticRegression_15": [
+        "RobustScaler",
+        "PCA_AUTO"
+    ],
+    "johnsmith88_heart-disease-dataset_KNeighborsClassifier_13": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "altruistdelhite04_loan-prediction-problem-dataset_RandomForestClassifier_12": [
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "henriqueyamahata_bank-marketing_RandomForestClassifier_20": [
+        "RobustScaler",
+        "InteractionFeatures"
+    ],
+    "kabure_german-credit-data-with-risk_RandomForestClassifier_10": [
+        "VarianceThreshold",
+        "PolynomialFeatures"
+    ],
+    "iabhishekofficial_mobile-price-classification_DecisionTreeClassifier_20": [
+        "VarianceThreshold",
+        "TruncatedSVD"
+    ],
+    "loveall_cervical-cancer-risk-classification_DecisionTreeClassifier_35": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "greedy93_titanic-survival-data_RandomForestClassifier_1": [
+        "VarianceThreshold",
+        "InteractionFeatures",
+        "MaxAbsScaler"
+    ],
+    "rakeshrau_social-network-ads_LogisticRegression_4": [
+        "PowerTransformer",
+        "KernelPCA"
+    ],
+    "chirin_africa-economic-banking-and-systemic-crisis-data_DecisionTreeClassifier_13": [
+        "InteractionFeatures",
+        "RobustScaler"
+    ],
+    "gauravduttakiit_heart-disease-prediction_DecisionTreeClassifier_4": [
+        "MaxAbsScaler"
+    ],
+    "johndasilva_diabetes_SVC_8": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "gilsousa_habermans-survival-data-set_KNeighborsClassifier_3": [
+        "KernelPCA",
+        "MaxAbsScaler"
+    ],
+    "gangliu_telecustsclasses_KNeighborsClassifier_11": [
+        "PolynomialFeatures",
+        "VarianceThreshold",
+        "MaxAbsScaler"
+    ],
+    "geomack_spotifyclassification_DecisionTreeClassifier_14": [
+        "MinMaxScaler",
+        "PolynomialFeatures"
+    ],
+    "ritesaluja_bank-note-authentication-uci-data_RandomForestClassifier_4": [
+        "MaxAbsScaler"
+    ],
+    "chetnasureka_absenteeismatwork_SVC_14": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "akram24_social-network-ads_SVC_4": [
+        "MaxAbsScaler",
+        "KernelPCA"
+    ],
+    "rtatman_did-it-rain-in-seattle-19482017_KNeighborsClassifier_4": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "imnikhilanand_heart-attack-prediction_KNeighborsClassifier_13": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "shrutimechlearn_churn-modelling_RandomForestClassifier_13": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "faressayah_college-data_KNeighborsClassifier_0": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "hafizwaqas101_creditcarddefault_RandomForestClassifier_24": [
+        "MinMaxScaler",
+        "PCA_AUTO",
+        "VarianceThreshold"
+    ],
+    "dragonheir_logistic-regression_KNeighborsClassifier_4": [
+        "MinMaxScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "alhassanabdelglil_classification_RandomForestClassifier_1": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "aungpyaeap_tictactoe-endgame-dataset-uci_DecisionTreeClassifier_9": [
+        "VarianceThreshold",
+        "MinMaxScaler",
+        "PolynomialFeatures"
+    ],
+    "burak3ergun_loan-data-set_SVC_12": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "affablekarthik_titanic-survival-prediction_LogisticRegression_1": [
+        "VarianceThreshold",
+        "InteractionFeatures",
+        "MaxAbsScaler"
+    ],
+    "aashnaprasad_heart-disease-detection-dataset_RandomForestClassifier_13": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "abilashcheruvathur_bank-personal-loan-eligibility_KNeighborsClassifier_9": [
+        "MinMaxScaler",
+        "PCA_AUTO"
+    ],
+    "abhinavralhan_titanic_LogisticRegression_1": [
+        "VarianceThreshold",
+        "InteractionFeatures",
+        "MaxAbsScaler"
+    ],
+    "displaynamenow_column-2c-wekacsv_LogisticRegression_6": [
+        "InteractionFeatures",
+        "RobustScaler"
+    ],
+    "barkhaverma_placement-data-full-class_RandomForestClassifier_14": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "deepu1109_star-dataset_KNeighborsClassifier_4": [
+        "RobustScaler"
+    ],
+    "faressayah_audiobook-app-data_RandomForestClassifier_11": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "braindeadcoder_advertising_LogisticRegression_9": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "avhikj_churn-predictions-personal_RandomForestClassifier_13": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "andrewmvd_udemy-courses_SVC_3": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "diegobabativa_depression_LogisticRegression_22": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "braindeadcoder_lending-club-data_RandomForestClassifier_13": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "gopalchettri_advertisement_LogisticRegression_9": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "akshat0007_fetalhr_DecisionTreeClassifier_39": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "baguskurniawanadhi_iklancsv_LogisticRegression_4": [
+        "PowerTransformer",
+        "KernelPCA"
+    ],
+    "bbyclub_hearth-disease_LogisticRegression_13": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "bluepanda98_users-of-a-social-network-who-bought-an-suv_LogisticRegression_4": [
+        "PowerTransformer",
+        "KernelPCA"
+    ],
+    "cherngs_heart-disease-cleveland-uci_RandomForestClassifier_13": [
+        "InteractionFeatures",
+        "KBinsDiscretizer"
+    ],
+    "barun2104_telecom-churn_RandomForestClassifier_0": [
+        "VarianceThreshold",
+        "PolynomialFeatures",
+        "RobustScaler"
+    ],
+    "econdata_predicting-earnings-from-census-data_RandomForestClassifier_12": [
+        "StandardScaler"
+    ],
+    "denisadutca_customer-behaviour_RandomForestClassifier_4": [
+        "MaxAbsScaler",
+        "KernelPCA"
+    ],
+    "ashwinlagji_absenteeism-at-work_SVC_20": [
+        "PolynomialFeatures",
+        "PowerTransformer"
+    ],
+    "dipam7_student-grade-prediction_KNeighborsClassifier_32": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "chiranjeevbit_bank-details_LogisticRegression_20": [
+        "RobustScaler",
+        "InteractionFeatures"
+    ],
+    "fareesamasroor_heartdd_LogisticRegression_13": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "alihussain1993_lower-back-pain-symptoms-datasetlabelled_RandomForestClassifier_12": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "birdy654_eeg-brainwave-dataset-feeling-emotions_RandomForestClassifier_2548": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "ashutosh94_titanic-dataset_SVC_1": [
+        "RobustScaler",
+        "PCA_AUTO"
+    ],
+    "filippoo_deep-learning-az-ann_RandomForestClassifier_13": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "danimal_heartdiseaseensembleclassifier_LogisticRegression_13": [
+        "InteractionFeatures",
+        "KBinsDiscretizer"
+    ],
+    "flyingwombat_us-news-and-world-reports-college-data_LogisticRegression_1": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "ankitshandilya_silhouette-of-vehicles-dataset_SVC_18": [
+        "VarianceThreshold",
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "amanwadhwa_wine-quality-from-chemical-properties_RandomForestClassifier_11": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "anshumansahu12_prediction-of-purchased-car_KNeighborsClassifier_4": [
+        "MinMaxScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "danerbland_electionfinance_LogisticRegression_49": [
+        "MaxAbsScaler",
+        "KernelPCA"
+    ],
+    "cities_titanic123_LogisticRegression_1": [
+        "VarianceThreshold",
+        "InteractionFeatures",
+        "MaxAbsScaler"
+    ],
+    "annatshngryan_heart-csv_RandomForestClassifier_13": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "dineshsagar66_hr-analytics-people-management_SVC_6": [
+        "RobustScaler",
+        "InteractionFeatures"
+    ],
+    "colara_human-resource_SVC_6": [
+        "RobustScaler",
+        "InteractionFeatures"
+    ],
+    "dark06thunder_credit-card-dataset_DecisionTreeClassifier_19": [
+        "RobustScaler",
+        "PCA_AUTO"
+    ],
+    "agirlcoding_all-space-missions-from-1957_SVC_8": [
+        "PowerTransformer"
+    ],
+    "ashsid06_absentee_LogisticRegression_14": [
+        "VarianceThreshold",
+        "InteractionFeatures",
+        "KBinsDiscretizer"
+    ],
+    "doaaalsenani_usa-cers-dataset_LogisticRegression_1": [
+        "MinMaxScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "ronitf_heart-disease-uci_SVC_13": [
+        "InteractionFeatures",
+        "KBinsDiscretizer"
+    ],
+    "ronitf_heart-disease-uci_RandomForestClassifier_13": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "blastchar_telco-customer-churn_DecisionTreeClassifier_20": [
+        "PolynomialFeatures",
+        "VarianceThreshold",
+        "MinMaxScaler"
+    ],
+    "adammaus_predicting-churn-for-bank-customers_KNeighborsClassifier_13": [
+        "RobustScaler",
+        "PCA_AUTO"
+    ],
+    "blastchar_telco-customer-churn_RandomForestClassifier_20": [
+        "VarianceThreshold",
+        "PolynomialFeatures",
+        "MaxAbsScaler"
+    ],
+    "ronitf_heart-disease-uci_KNeighborsClassifier_13": [
+        "MinMaxScaler",
+        "VarianceThreshold",
+        "PolynomialFeatures"
+    ],
+    "ronitf_heart-disease-uci_DecisionTreeClassifier_13": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "ajay1735_hmeq-data_LogisticRegression_0": [
+        "RobustScaler",
+        "PCA_AUTO"
+    ],
+    "sulianova_cardiovascular-disease-dataset_LogisticRegression_12": [
+        "RobustScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "sulianova_cardiovascular-disease-dataset_DecisionTreeClassifier_12": [
+        "RobustScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "primaryobjects_voicegender_LogisticRegression_20": [
+        "MinMaxScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "blastchar_telco-customer-churn_SVC_20": [
+        "RobustScaler",
+        "VarianceThreshold",
+        "PCA_AUTO"
+    ],
+    "primaryobjects_voicegender_RandomForestClassifier_20": [
+        "PolynomialFeatures",
+        "VarianceThreshold",
+        "MaxAbsScaler"
+    ],
+    "merishnasuwal_breast-cancer-prediction-dataset_LogisticRegression_5": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "sammy123_lower-back-pain-symptoms-dataset_RandomForestClassifier_12": [
+        "VarianceThreshold",
+        "PolynomialFeatures",
+        "MinMaxScaler"
+    ],
+    "wenruliu_adult-income-dataset_RandomForestClassifier_14": [
+        "MinMaxScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "pavansubhasht_ibm-hr-analytics-attrition-dataset_SVC_1": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "pavansubhasht_ibm-hr-analytics-attrition-dataset_RandomForestClassifier_1": [
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "dileep070_heart-disease-prediction-using-logistic-regression_RandomForestClassifier_15": [
+        "VarianceThreshold",
+        "RobustScaler",
+        "PolynomialFeatures"
+    ],
+    "primaryobjects_voicegender_KNeighborsClassifier_20": [
+        "InteractionFeatures",
+        "MaxAbsScaler"
+    ],
+    "wenruliu_adult-income-dataset_LogisticRegression_14": [
+        "MinMaxScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "adammaus_predicting-churn-for-bank-customers_DecisionTreeClassifier_13": [
+        "RobustScaler",
+        "PCA_AUTO"
+    ],
+    "pavansubhasht_ibm-hr-analytics-attrition-dataset_DecisionTreeClassifier_1": [
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "altruistdelhite04_loan-prediction-problem-dataset_DecisionTreeClassifier_12": [
+        "RobustScaler",
+        "PCA_AUTO"
+    ],
+    "heptapod_titanic_SVC_27": [
+        "MinMaxScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "merishnasuwal_breast-cancer-prediction-dataset_KNeighborsClassifier_5": [
+        "PolynomialFeatures",
+        "MaxAbsScaler"
+    ],
+    "elikplim_car-evaluation-data-set_RandomForestClassifier_6": [
+        "VarianceThreshold",
+        "MinMaxScaler",
+        "PolynomialFeatures"
+    ],
+    "rakeshrau_social-network-ads_KNeighborsClassifier_4": [
+        "MinMaxScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "kabure_german-credit-data-with-risk_SVC_10": [
+        "RobustScaler",
+        "PCA_AUTO"
+    ],
+    "iabhishekofficial_mobile-price-classification_KNeighborsClassifier_20": [
+        "VarianceThreshold",
+        "TruncatedSVD"
+    ],
+    "chirin_africa-economic-banking-and-systemic-crisis-data_RandomForestClassifier_13": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "aljarah_xAPI-Edu-Data_LogisticRegression_16": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "johndasilva_diabetes_LogisticRegression_8": [
+        "InteractionFeatures",
+        "StandardScaler"
+    ],
+    "becksddf_churn-in-telecoms-dataset_KNeighborsClassifier_20": [
+        "MinMaxScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "eswarchandt_phishing-website-detector_KNeighborsClassifier_31": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "altruistdelhite04_loan-prediction-problem-dataset_SVC_12": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "kabure_german-credit-data-with-risk_DecisionTreeClassifier_10": [
+        "VarianceThreshold",
+        "PolynomialFeatures"
+    ],
+    "johndasilva_diabetes_KNeighborsClassifier_8": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "heptapod_titanic_KNeighborsClassifier_27": [
+        "InteractionFeatures",
+        "PowerTransformer"
+    ],
+    "aljarah_xAPI-Edu-Data_SVC_16": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "merishnasuwal_breast-cancer-prediction-dataset_DecisionTreeClassifier_5": [
+        "PolynomialFeatures",
+        "MaxAbsScaler"
+    ],
+    "geomack_spotifyclassification_RandomForestClassifier_14": [
+        "MinMaxScaler",
+        "PolynomialFeatures"
+    ],
+    "dileep070_heart-disease-prediction-using-logistic-regression_DecisionTreeClassifier_15": [
+        "PolynomialFeatures",
+        "VarianceThreshold",
+        "MinMaxScaler"
+    ],
+    "imnikhilanand_heart-attack-prediction_LogisticRegression_13": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "kandij_diabetes-dataset_RandomForestClassifier_8": [
+        "VarianceThreshold",
+        "PolynomialFeatures",
+        "MaxAbsScaler"
+    ],
+    "altruistdelhite04_loan-prediction-problem-dataset_LogisticRegression_12": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "iabhishekofficial_mobile-price-classification_RandomForestClassifier_20": [
+        "VarianceThreshold",
+        "TruncatedSVD"
+    ],
+    "chirin_africa-economic-banking-and-systemic-crisis-data_KNeighborsClassifier_13": [
+        "VarianceThreshold",
+        "PolynomialFeatures",
+        "MinMaxScaler"
+    ],
+    "iabhishekofficial_mobile-price-classification_SVC_20": [
+        "VarianceThreshold",
+        "PolynomialFeatures"
+    ],
+    "chetnasureka_absenteeismatwork_DecisionTreeClassifier_14": [
+        "VarianceThreshold",
+        "InteractionFeatures",
+        "KBinsDiscretizer"
+    ],
+    "shrutimechlearn_churn-modelling_KNeighborsClassifier_13": [
+        "RobustScaler",
+        "PCA_AUTO"
+    ],
+    "loveall_cervical-cancer-risk-classification_RandomForestClassifier_35": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "johndasilva_diabetes_RandomForestClassifier_8": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "becksddf_churn-in-telecoms-dataset_DecisionTreeClassifier_20": [
+        "RobustScaler",
+        "PolynomialFeatures"
+    ],
+    "rakeshrau_social-network-ads_SVC_4": [
+        "MaxAbsScaler",
+        "KernelPCA"
+    ],
+    "johndasilva_diabetes_DecisionTreeClassifier_8": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "rakeshrau_social-network-ads_DecisionTreeClassifier_4": [
+        "MaxAbsScaler",
+        "KernelPCA"
+    ],
+    "abcsds_pokemon_SVC_12": [
+        "InteractionFeatures",
+        "MaxAbsScaler"
+    ],
+    "janiobachmann_bank-marketing-dataset_KNeighborsClassifier_16": [
+        "MinMaxScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "primaryobjects_voicegender_DecisionTreeClassifier_20": [
+        "PolynomialFeatures",
+        "VarianceThreshold",
+        "MaxAbsScaler"
+    ],
+    "hesh97_titanicdataset-traincsv_DecisionTreeClassifier_1": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "pavansubhasht_ibm-hr-analytics-attrition-dataset_KNeighborsClassifier_1": [
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "akram24_social-network-ads_DecisionTreeClassifier_4": [
+        "MaxAbsScaler",
+        "KernelPCA"
+    ],
+    "blastchar_telco-customer-churn_KNeighborsClassifier_20": [
+        "PowerTransformer"
+    ],
+    "chetnasureka_absenteeismatwork_KNeighborsClassifier_14": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "akram24_social-network-ads_LogisticRegression_4": [
+        "PowerTransformer",
+        "KernelPCA"
+    ],
+    "dragonheir_logistic-regression_LogisticRegression_4": [
+        "PowerTransformer",
+        "KernelPCA"
+    ],
+    "chirin_africa-economic-banking-and-systemic-crisis-data_SVC_13": [
+        "PowerTransformer",
+        "PCA_AUTO"
+    ],
+    "johnsmith88_heart-disease-dataset_SVC_13": [
+        "InteractionFeatures",
+        "StandardScaler"
+    ],
+    "rakeshrau_social-network-ads_RandomForestClassifier_4": [
+        "MaxAbsScaler",
+        "KernelPCA"
+    ],
+    "shrutimechlearn_churn-modelling_SVC_13": [
+        "RobustScaler",
+        "PCA_AUTO"
+    ],
+    "akram24_social-network-ads_KNeighborsClassifier_4": [
+        "MinMaxScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "fayomi_advertising_DecisionTreeClassifier_9": [
+        "KBinsDiscretizer",
+        "PCA_AUTO"
+    ],
+    "ritesaluja_bank-note-authentication-uci-data_LogisticRegression_4": [
+        "MaxAbsScaler",
+        "PolynomialFeatures"
+    ],
+    "merishnasuwal_breast-cancer-prediction-dataset_SVC_5": [
+        "InteractionFeatures",
+        "PowerTransformer"
+    ],
+    "sammy123_lower-back-pain-symptoms-dataset_SVC_12": [
+        "PolynomialFeatures"
+    ],
+    "kabure_german-credit-data-with-risk_LogisticRegression_10": [
+        "RobustScaler",
+        "PCA_AUTO"
+    ],
+    "sammy123_lower-back-pain-symptoms-dataset_KNeighborsClassifier_12": [
+        "PolynomialFeatures"
+    ],
+    "lodetomasi1995_income-classification_RandomForestClassifier_14": [
+        "MinMaxScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "fayomi_advertising_RandomForestClassifier_9": [
+        "KBinsDiscretizer",
+        "PCA_AUTO"
+    ],
+    "barelydedicated_bank-customer-churn-modeling_LogisticRegression_13": [
+        "MinMaxScaler",
+        "PolynomialFeatures"
+    ],
+    "ninzaami_loan-predication_LogisticRegression_12": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "chetnasureka_absenteeismatwork_RandomForestClassifier_14": [
+        "PolynomialFeatures",
+        "StandardScaler"
+    ],
+    "akram24_social-network-ads_RandomForestClassifier_4": [
+        "MaxAbsScaler",
+        "KernelPCA"
+    ],
+    "abhinavralhan_titanic_DecisionTreeClassifier_1": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "imnikhilanand_heart-attack-prediction_RandomForestClassifier_13": [
+        "VarianceThreshold",
+        "PolynomialFeatures",
+        "MinMaxScaler"
+    ],
+    "flenderson_sales-analysis_RandomForestClassifier_3": [
+        "MaxAbsScaler",
+        "InteractionFeatures"
+    ],
+    "gilsousa_habermans-survival-data-set_RandomForestClassifier_3": [
+        "MaxAbsScaler",
+        "KernelPCA"
+    ],
+    "deepu1109_star-dataset_SVC_4": [
+        "PowerTransformer",
+        "KernelPCA"
+    ],
+    "dipam7_student-grade-prediction_DecisionTreeClassifier_32": [
+        "VarianceThreshold",
+        "MinMaxScaler",
+        "PolynomialFeatures"
+    ],
+    "burak3ergun_loan-data-set_DecisionTreeClassifier_12": [
+        "RobustScaler",
+        "PCA_AUTO"
+    ],
+    "dipam7_student-grade-prediction_LogisticRegression_21": [
+        "VarianceThreshold",
+        "MinMaxScaler",
+        "PolynomialFeatures"
+    ],
+    "colara_human-resource_RandomForestClassifier_6": [
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "gopalchettri_advertisement_KNeighborsClassifier_9": [
+        "MinMaxScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "doaaalsenani_usa-cers-dataset_LogisticRegression_12": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "cherngs_heart-disease-cleveland-uci_LogisticRegression_13": [
+        "InteractionFeatures",
+        "PowerTransformer"
+    ],
+    "displaynamenow_column-2c-wekacsv_KNeighborsClassifier_6": [
+        "PCA_AUTO",
+        "MaxAbsScaler"
+    ],
+    "anshumansahu12_prediction-of-purchased-car_LogisticRegression_4": [
+        "PowerTransformer",
+        "KernelPCA"
+    ],
+    "deepu1109_star-dataset_DecisionTreeClassifier_5": [
+        "KBinsDiscretizer",
+        "PCA_AUTO"
+    ],
+    "greedy93_titanic-survival-data_LogisticRegression_1": [
+        "VarianceThreshold",
+        "InteractionFeatures",
+        "MaxAbsScaler"
+    ],
+    "fayomi_advertising_KNeighborsClassifier_9": [
+        "MinMaxScaler",
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "imnikhilanand_heart-attack-prediction_DecisionTreeClassifier_13": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ],
+    "janiobachmann_bank-marketing-dataset_LogisticRegression_16": [
+        "PolynomialFeatures",
+        "VarianceThreshold"
+    ],
+    "heptapod_titanic_RandomForestClassifier_27": [
+        "InteractionFeatures"
+    ],
+    "shuofxz_titanic-machine-learning-from-disaster_LogisticRegression_1": [
+        "VarianceThreshold",
+        "InteractionFeatures",
+        "MaxAbsScaler"
+    ],
+    "janiobachmann_bank-marketing-dataset_SVC_16": [
+        "MaxAbsScaler",
+        "PCA_AUTO"
+    ]
+}
